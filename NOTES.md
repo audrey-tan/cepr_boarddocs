@@ -21,4 +21,8 @@ I have downloaded the dataset as `kaggle-school-districts.csv`, and renamed the 
 Currently scraping with 100 links per minute, so 13k links will require 130 minutes or a couple of hours.
 
 # Dec 19
-I will look into the link and try to scrape 
+Reading the second deliverable, I realize that we have to merge to another dataset that has a list of schools. I will rerun the scraper by feeding in that list of schools instead. I named the csv `nces2324.csv` and it is downloaded from this [link](https://nces.ed.gov/ccd/files.asp#Fiscal:2,LevelId:5,SchoolYearId:38,Page:1). It is the Directory, Data file.
+
+I have asserted that the NCES Agency Identification Number (LEAID) is indeed unique.
+
+I will create a file to create the queries for each LEA (Local Education Agency). This is `create_query_lea.ipynb`.
