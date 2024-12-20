@@ -10,7 +10,7 @@ Observation: The individual link (e.g. https://go.boarddocs.com/oh/jtmo/Board.ns
 
 Approach: I downloaded a HTML `div` of school districts from Ballotpedia [here](https://ballotpedia.org/List_of_school_districts_in_the_United_States) into `school_district_list.html` and parsed it using `get_school_districts.ipynb` into `school_districts.csv`.
 
-TOREPORT: District of Columbia is not included.
+CANCELREPORT: District of Columbia is not included.
 
 Approach: I then use this list of school districts and search Google with the appended search term "BoardDocs". Most of the time this returns the intended web URL.
 
@@ -26,3 +26,10 @@ Reading the second deliverable, I realize that we have to merge to another datas
 I have asserted that the NCES Agency Identification Number (LEAID) is indeed unique.
 
 I will create a file to create the queries for each LEA (Local Education Agency). This is `create_query_lea.ipynb`.
+
+# Dec 20
+Percentage of total school boards scrapped: 75.69%
+
+Since we hit the 10k limit, we will have to wait for a day. In the meantime, I will prepare a small sample of 1k records to send over to Tom and see if it is ok.
+
+For deliverable 1, I will take a set of all scrapped links. Then I will filter out the valid ones. Then I will use `requests` to scrape the two fields of name and address.
