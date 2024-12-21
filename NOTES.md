@@ -32,4 +32,4 @@ Percentage of total school boards scrapped: 75.69%
 
 Since we hit the 10k limit, we will have to wait for a day. In the meantime, I will prepare a small sample of 1k records to send over to Tom and see if it is ok.
 
-For deliverable 1, I will take a set of all scrapped links. Then I will filter out the valid ones. Then I will use `requests` to scrape the two fields of name and address.
+For deliverable 1, I will take a set of all scrapped links. Then I will filter out the valid ones. This is at `clean_boarddocs_url.ipynb`. Then I will use `requests` to scrape the two fields of name and address. This is at `visit_boarddocs.ipynb`.
