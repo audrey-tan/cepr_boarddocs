@@ -65,3 +65,12 @@ Prelim results show that 2% of the BoardDocs do not link back. For these 2%, it 
 In the spirit of completing deliverable 1, I will continue to clean the cols first.
 
 Also, we completed the Google Search! We scrapped 93.78% of all given school districts. We managed to get 11,186 unique URLs.
+
+Also passed it through the scrapper at `visit_boarddocs.ipynb`.
+
+To recap, here is the order that the notebooks were run
+1. `create_query_lea.ipynb` to generate the Google Search queries for each LEA
+2. `google_search_boarddocs.ipynb` to execute the Google Search queries and store the results
+3. `clean_boarddocs_url.ipynb` to clean the Google Search results, which are BoardDocs URL
+4. `visit_boarddocs.ipynb` to visit each URL and scrape the BoardDocs website to get addresses and other identifiers
+5. `clean_boarddocs_websites.ipynb` to clean the results from scrapping the BoardDocs websites
