@@ -74,7 +74,7 @@
 72,San Jose-Evergreen Community College District,,,school_district,150
 73,Kansas Turnpike Authority,"9401 E Kellogg | Wichita, KS 67207 | (316) 682-4537",,drop,152
 74,Old Mission Peninsula School,"2699 Island View Rd | Traverse City, MI 49686 | (231) 252-0225",,school_district,153
-75,75 Chenango Ave Clinton NY13323,,Clinton Central School District,address,155
+75,,75 Chenango Ave Clinton NY13323,Clinton Central School District,address,155
 76,Randolph Eastern School Corporation,,,school_district,159
 77,Barnesville EVSD,"210 West Church Street, Barnesville, OH 43713 | 740.425.3615",,school_district,160
 78,Santa Barbara City College,"721 Cliff Drive | Santa Barbara, CA 93109-2394 | Main Campus: 805.965.0581",,school_district,162
@@ -118,7 +118,7 @@
 116,Ball-Chatham Board of Education,"1475 E. Plummer Blvd Chatham, Illinois 62629",,school_district,229
 117,"City of Sterling, Illinois","212 Third Avenue |  Sterling, IL 61081 | p 815-632-6621 | f 815-632-6671",,,239
 118,Wayland Union Schools,"850 E. Superior Street Wayland, MI 49348 | (269) 792-2181",,school_district,240
-119,Southwest Licking LSD OH,"Address: 927-A South Street, Pataskala, Ohio 43062 | Phone: 740-927-3941",,address,242
+119,,"Address: 927-A South Street, Pataskala, Ohio 43062 | Phone: 740-927-3941",,address,242
 120,Meetings and Information,,Millville Area School District,school_district,244
 121,Prairie Heights Community School Corporation,"0305 S 1150 E | LaGrange, IN 46761 | 260-351-3214 x5260",,school_district,248
 122,Jordan-Elbridge CSD,"9 N. Chappell St., PO Box 902 | Jordan, NY 13080",,school_district,249
@@ -607,7 +607,7 @@
 605,Benton Harbor Charter School Academy,"455 Riverview Drive, Benton Harbor, MI 49022  Phone: 269-925-3807",,school_district,1335
 606,The Bronxville School,"177 Pondfield Road  |  Bronxville, New York 10708  |  Phone (914) 395-0500",,school_district,1336
 607,Gloucester City Board of Education NJ,"1300 Market Street Gloucester City, NJ 08030",,school_district,1338
-608,1446 Kittanning Pike,"Karns City, PA  16041",,address,1343
+608,,"Karns City, PA  16041",,address,1343
 609,St. Charles Parish Public Schools,"13855 River Road * Luling , Louisiana 70070 * Ph: (985) 785-6289",,school_district,1346
 610,Mason County Central Schools,,,school_district,1347
 611,Northumberland County Career and Technology Center,"1700 West Montgomery Street, Suite 2000, Coal Township, PA 17866   570.644-0304",,drop,1350

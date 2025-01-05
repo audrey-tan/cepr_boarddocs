@@ -1,0 +1,32 @@
+You are given a CSV with two columns: title_1 and index.
+
+Your task is to classify the rows into "school_district" or "drop". Your answer will be a new column called "classification".
+
+You will output a CSV that has only two columns: "classification" and "index".
+
+Rows that will be classified as "school_district" are any agencies or school boards. They can also be universities or cities. For example, these rows can be classified as "school_district"
+
+Engadine Consolidated Schools,2370
+Loogootee Community School Corporation,2374
+NOVA Academy Early College High School,2375
+City of Tenino Washington,2377
+Lafourche Parish Public Schools,2381
+Whitefish Township Community Schools,2383
+Westfield Washington Schools,2389
+Flint Cultural Center Academy,2392
+Eastern Howard School Corporation,2393
+Public Schools of Calumet-Laurium-Keweenaw,2522
+
+
+As a counter-example, here are the rows that we will classify as "drop"
+
+Board Policies and Administrative Guidelines and Forms,2417
+Welcome to:,3107
+Home Page,2443
+
+If you are unsure, classify it as "unsure".
+
+You should only output the header and the rows as your answer. You do not need to include your thought process.
+
+Here is the data.
+<<250 rows of data>>
