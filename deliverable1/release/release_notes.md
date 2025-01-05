@@ -33,7 +33,7 @@ Of these, I managed to find `school_district` values for 93.2% of them. The rema
 
 87.2% or 3,407 of them have "school", "academy", "district", or "education" in their `school_district` or `address` columns. The remaining 12.8% don't.
 
-Additionally, I identified the home website for 98.6% of the rows (3,852), which can be used to match with the NCES database. This is not the BoardDocs website, but the school district's public facing website.
+Additionally, I identified the home website for 98.6% of the rows (3,820), which can be used to match with the NCES database. This is not the BoardDocs website, but the school district's public facing website.
 
 I also extracted the phone numbers for 56.9% of the rows.
 
