@@ -1,0 +1,71 @@
+This csv has four columns: title_1, address, school_district, and index. Many values are empty.
+
+Your goal is to add a fifth column "action" that classifies the value at title_1 as "address", "school_district", "None" or "drop". DO NOT USE ANY PROGRAMMING. Do not use Python. You should manually classify the rows.
+
+To emphasize, your goal is to classify the value at title_1.
+
+Do not overwrite any values. For example, if there is an item in "school_district", do not classify that title_1 as school_district.
+
+To make things easier for you, only output the index column and the new column called "action".
+
+Here are some examples:
+
+For example, for the row
+
+32, Christopher Newport University,"1 Avenue of the Arts Newport News, VA 23606 | (757) 594-7000",
+
+You should put Christopher Newport University as a school_district, so the action is "school_district"
+
+Another example
+
+21, Quality to the Core,,Central Dauphin School District
+
+You should just drop the title_1, since it is a slogan, so the action is "drop"
+
+Another example
+
+155, 75 Chenango Ave Clinton NY13323,,Clinton Central School District
+
+You should put this in the address column, so the action is "address"
+
+Putting it all together, if the input is
+
+index,title_1,address,school_district
+32, Christopher Newport University,"1 Avenue of the Arts Newport News, VA 23606 | (757) 594-7000",
+21, Quality to the Core,,Central Dauphin School District
+155, 75 Chenango Ave Clinton NY13323,,Clinton Central School District
+
+Then your output is 
+
+index,action
+32, school_district
+21, drop
+155, address
+
+You should only set action to None if the corresponding title_1 is None.
+
+You can classify the schools as school_districts. For example, Caroline County Public Schools can be classified as a "school_district".
+
+Make sure you don't overwrite any existing values in address or school_district.
+
+Do not put "address" as your "action" if there is already a value in the address column for that row. Similarly for school_district.
+
+Only output None for None fields.
+
+Return a csv
+
+DO NOT USE ANY PROGRAMMING.
+
+For more examples, these title_1 values should be classified as school_district too
+Evansville Vanderburgh School Corporation
+Mesick Consolidated Schools
+Hale Area Schools
+Holgate Local Schools
+Oakridge Public Schools	
+
+You should classify it manually. You do not need to give your reasoning. Just output the csv.
+
+You should only output the index column and your new action column. Classify this whole dataset.
+
+Here is the data
+<<COPY PASTE THE FIRST 250 ROWS OF OUR CSV>>

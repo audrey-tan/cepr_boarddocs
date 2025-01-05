@@ -1,0 +1,42 @@
+This csv has three columns: title_1, address, and school_district. Many values are empty.
+
+Your goal is to add a fourth column "action" that classifies the value at title_1 as "address", "school_district", "None" or "drop". DO NOT USE ANY PROGRAMMING. Do not use Python. You should manually classify the rows
+
+Do not overwrite any values. For example, if there is an item in "school_district", do not classify that title_1 as school_district.
+
+Here are some examples:
+
+For example, for the row
+
+Christopher Newport University,"1 Avenue of the Arts Newport News, VA 23606 | (757) 594-7000",
+
+You should put Christopher Newport University as the school_district, which is third column, that is
+
+,"1 Avenue of the Arts Newport News, VA 23606 | (757) 594-7000","Christopher Newport University"
+
+Another example
+
+Quality to the Core,,Central Dauphin School District
+
+You should just drop the title_1, since it is a slogan
+
+,,Central Dauphin School District
+
+Another example
+
+75 Chenango Ave Clinton NY13323,,Clinton Central School District
+
+You should put this in the address column
+
+,75 Chenango Ave Clinton NY13323,Clinton Central School District
+
+Return a csv
+
+DO NOT USE ANY PROGRAMMING.
+
+You should classify it manually. You do not need to give your reasoning. Just output the csv.
+
+To check that you understand, output the first 500 rows. To make things easier for you, only output the new column called "action"
+
+Here is the data
+<<COPY PASTE THE FIRST 500 ROWS OF OUR CSV>>
