@@ -11,13 +11,13 @@ corner of the webpage as in the above).
 ## Result specification
 
 The final csv at [/deliverable_1.csv] has 3,896 rows and 6 columns. The columns are
-- `URL` which is the BoardDocs URL
+- `boarddocs_url` which is the BoardDocs URL
 - `school_district` which is the school district name scrapped from BoardDocs
 - `address` which is the school district name address from BoardDocs
 - `home_website` which is the main school website scrapped from BoardDocs (not the BoardDocs URL, but a public-facing website)
 - `phone` which is the phone number extracted from `school_district` or `address`.
 
-The `URL` and `home_website` are guaranteed to be valid URL strings.
+The `boarddocs_url` and `home_website` are guaranteed to be valid URL strings.
 
 The `school_district` and `address` columns are guaranteed to be strings or empty.
 

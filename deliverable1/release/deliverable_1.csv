@@ -1,4 +1,4 @@
-URL,school_district,address,home_website,phone
+boarddocs_url,school_district,address,home_website,phone
 https://go.boarddocs.com/mi/sjs/Board.nsf/Public,St. Joseph Public Schools,,https://www.sjschools.org,
 https://go.boarddocs.com/pa/cali/Board.nsf/Public,,,http://www.calsd.org,
 https://go.boarddocs.com/oh/mapleheights/Board.nsf/Public,Maple Heights City Schools,"5740 Lawn Avenue | Maple Heights, OH 44137 | 216-587-6100",http://www.mapleschools.com,(216) 587-6100
@@ -275,7 +275,7 @@ https://go.boarddocs.com/pa/fern/Board.nsf/Public,Ferndale Area School District,
 https://go.boarddocs.com/pa/tusc/Board.nsf/Public,Tuscarora S D,,http://www.tsdrockets.org,
 https://go.boarddocs.com/wi/dasd/Board.nsf/Public,Drummond Area School District,"PO Box 40, Drummond, WI 54832 - 715-739-6669",http://www.dasdk12.net,(715) 739-6669
 https://go.boarddocs.com/ny/klsd/Board.nsf/Public,Katonah-Lewisboro School District,"60 North Salem Road, Cross River, New York 10518 | Phone: (914) 763-7020",http://www.klschools.org,(914) 763-7020
-https://go.boarddocs.com/mi/bcp/Board.nsf/Public,Bay City Public Schools,,Http://www.bcschools.net,
+https://go.boarddocs.com/mi/bcp/Board.nsf/Public,Bay City Public Schools,,http://www.bcschools.net,
 https://go.boarddocs.com/wi/shull/Board.nsf/Public,Shullsburg School District,"444 N. Judgement St. Shullsburg, WI 53586",https://www.shullsburg.k12.wi.us,
 https://go.boarddocs.com/in/nhjusc/Board.nsf/Public,Nineveh - Hensley - Jackson United School Corporation,,http://www.indiancreekschools.com,
 https://go.boarddocs.com/ga/gcps/Board.nsf/Public,Gwinnett County Public Schools,,https://www.gcpsk12.org,
@@ -360,7 +360,7 @@ https://go.boarddocs.com/oh/joad/Board.nsf/Public,Jonathan Alder Local Schools,"
 https://go.boarddocs.com/wi/shaw/Board.nsf/Public,Shawano School District,"218 County Road B, Shawano, WI 54166 715-526-3194",http://www.shawanoschools.com,(715) 526-3194
 https://go.boarddocs.com/mi/mdps/Board.nsf/Public,Madison District Public Schools,,http://www.madisonschools.k12.mi.us,
 https://go.boarddocs.com/mi/macademyk8/Board.nsf/Public,Multicultural Academy,"5550 Platt Road, Ann Arbor MI. 48108 Phone: 734-677-0732",http://macademyk8.com,(734) 677-0732
-https://go.boarddocs.com/mi/howel/Board.nsf/Public,Howell Public Schools,,http://www.HowellSchools.com,
+https://go.boarddocs.com/mi/howel/Board.nsf/Public,Howell Public Schools,,http://www.howellschools.com,
 https://go.boarddocs.com/id/bcsd61/Board.nsf/Public,Blaine County School District #61,"118 Bullion St. | Hailey, ID 83333 | 208-578-5000 | f 208-578-5110",http://www.blaineschools.org,(208) 578-5000
 https://go.boarddocs.com/ar/searcy/Board.nsf/Public,Searcy School District,"801 N. Elm St. Searcy, Arkansas AR 72143",https://www.searcyschools.org,
 https://go.boarddocs.com/ny/bataviacsd/Board.nsf/Public,Batavia City School District,"260 State Street Batavia, NY 14020",https://www.bataviacsd.org,
@@ -452,7 +452,7 @@ https://go.boarddocs.com/ma/arps/Board.nsf/Public,Amherst Regional Public School
 https://go.boarddocs.com/pa/csoe/Board.nsf/Public,Charter School of Excellence,"1309 French Street Erie, Pennsylvania 16501",https://www.charterschoolofexcellence.org,
 https://go.boarddocs.com/ny/apcsd/Board.nsf/Public,Welcome to Averill Park Central School District,,https://averillpark.k12.ny.us,
 https://go.boarddocs.com/co/prsd2/Board.nsf/Public,Primero RE-2 School District,"20200 State Highway 12 Weston, CO 81091 Ph: 719-868-2715 Fx: 719-868-2241",http://policy.ctspublish.com,(719) 868-2715
-https://go.boarddocs.com/az/phxhs/Board.nsf/Public,Phoenix Union High School District,"4502 N. Central Ave. | Phoenix, AZ 85012 | p 602.764.1100 | f 602.764.1240",http://www.PXU.org,(602) 764-1100
+https://go.boarddocs.com/az/phxhs/Board.nsf/Public,Phoenix Union High School District,"4502 N. Central Ave. | Phoenix, AZ 85012 | p 602.764.1100 | f 602.764.1240",http://www.pxu.org,(602) 764-1100
 https://go.boarddocs.com/in/msdwt/Board.nsf/Public,Metropolitan School District of Warren Township,"975 North Post Road | Indianapolis, IN 46219 | Phone: 317.869.4300",https://www.warren.k12.in.us,(317) 869-4300
 https://go.boarddocs.com/oh/trimb/Board.nsf/Public,Trimble Local School District,,http://www.trimble.k12.oh.us,
 https://go.boarddocs.com/ks/usd264/Board.nsf/Public,Clearwater Unified School District 264,"151 S. 1st Avenue | PO Box 248 | Clearwater, KS 67026 |  (620) 584-2091",http://www.usd264.org,(620) 584-2091
@@ -904,7 +904,7 @@ https://go.boarddocs.com/nd/bsd7/Board.nsf/Public,Turtle Mountain Community Scho
 https://go.boarddocs.com/mi/universalpsa/Board.nsf/Public,Universal Academy,"4833 Ogden St, Detroit, MI 48210 Phone: (313) 581-5006",http://www.universalpsa.org,(313) 581-5006
 https://go.boarddocs.com/oh/canfld/Board.nsf/Public,Canfield Local Schools,,http://www.canfieldschools.net,
 https://go.boarddocs.com/pa/psbr/Board.nsf/Public,Pennsbury School District,"134 Yardley Avenue, PO Box 338 Fallsington, PA 19058 | 215-428-4100",https://www.pennsburysd.org,(215) 428-4100
-https://go.boarddocs.com/oh/plch/Board.nsf/Public,Cincinnati & Hamilton County Public Library,"800 Vine Street | Cincinnati, OH 45202-2009 | 513-369-6900",http://www.CHPL.org,(513) 369-6900
+https://go.boarddocs.com/oh/plch/Board.nsf/Public,Cincinnati & Hamilton County Public Library,"800 Vine Street | Cincinnati, OH 45202-2009 | 513-369-6900",http://www.chpl.org,(513) 369-6900
 https://go.boarddocs.com/az/csd14/Board.nsf/Public,Creighton Elementary School District,,,
 https://go.boarddocs.com/ny/prsdny/Board.nsf/Public,Pearl River School District,"135 West Crooked Hill Road | Pearl River, NY 10965 | Tel: 845.620.3900 | Fx: 845.620.3927",http://www.pearlriver.org,(845) 620-3900
 https://go.boarddocs.com/co/eagle/Board.nsf/Public,Eagle County Schools,"948 Chambers Ave., PO Box 740 Eagle, CO 81631 | 970 328-6321 | 970 328-1024 f",http://www.eagleschools.net,(970) 328-6321
@@ -1183,7 +1183,7 @@ https://go.boarddocs.com/ca/bcsdca/Board.nsf/Public,Bakersfield City School Dist
 https://go.boarddocs.com/wv/cobwv/Board.nsf/Public,City of Bridgeport,"515 W. Main St. | Bridgeport, WV 26330 | (304) 842-8200",http://www.bridgeportwv.com,(304) 842-8200
 https://go.boarddocs.com/oh/sels/Board.nsf/Public,Seneca East Local Schools,"13343 E. US Highway 224, Attica, OH  44807",http://www.se-tigers.com,
 https://go.boarddocs.com/nj/sriver/Board.nsf/Public,,,http://www.srivernj.org,
-https://go.boarddocs.com/oh/delawareareacc/Board.nsf/Public,Delaware Area Career Center,"4565 Columbus Pike | Delaware, OH 43015 | 740-548-0708",http://www.DelawareAreaCC.org,(740) 548-0708
+https://go.boarddocs.com/oh/delawareareacc/Board.nsf/Public,Delaware Area Career Center,"4565 Columbus Pike | Delaware, OH 43015 | 740-548-0708",http://www.delawareareacc.org,(740) 548-0708
 https://go.boarddocs.com/in/nnsc/Board.nsf/Public,North Newton School Corporation,"310 S. Lincoln St., PO Box 8 | Morocco, IN 47963 | 219.285.2228 | f 219.285.2708",http://www.nn.k12.in.us,(219) 285-2228
 https://go.boarddocs.com/wv/upshur/Board.nsf/Public,Upshur County Schools,"102 Smithfield St. | Buckhannon, WV 26201 | 304-472-5480",https://www.upshurschools.com,(304) 472-5480
 https://go.boarddocs.com/wi/bts/Board.nsf/Public,Blair-Taylor School District,,http://www.btsd.k12.wi.us,
@@ -1482,7 +1482,7 @@ https://go.boarddocs.com/oh/lancaster/Board.nsf/Public,Lancaster City School Dis
 https://go.boarddocs.com/ny/rboces/Board.nsf/Public,Rockland BOCES,"65 Parrott Road, West Nyack, NY 10994 • 845.627.4700",http://www.rocklandboces.org,(845) 627-4700
 https://go.boarddocs.com/nj/howell/Board.nsf/Public,Howell Township Public Schools,"4567 Route 9 North, Howell, NJ 07731 | (732) 751-2480",http://www.howell.k12.nj.us,(732) 751-2480
 https://go.boarddocs.com/wi/mil/Board.nsf/Public,School District of Milton,,http://www.milton.k12.wi.us,
-https://go.boarddocs.com/vsba/frcps/Board.nsf/Public,Fredericksburg City Public Schools,"210 Ferdinand Street | Fredericksburg, VA 22401 | (540) 372-1130 | f (540) 372-1111",http://FXBGschools.us,(540) 372-1130
+https://go.boarddocs.com/vsba/frcps/Board.nsf/Public,Fredericksburg City Public Schools,"210 Ferdinand Street | Fredericksburg, VA 22401 | (540) 372-1130 | f (540) 372-1111",http://fxbgschools.us,(540) 372-1130
 https://go.boarddocs.com/oh/tricountycc/Board.nsf/Public,Tri-County Career Center,"15676 State Rt 691 | Nelsonville, OH 45764 | 740-753-3511",https://www.tricountyhightech.com,(740) 753-3511
 https://go.boarddocs.com/wy/bighorn1/Board.nsf/Public,Big Horn County School District #1,"99 South Division | Cowley, WY 82420 | P: 307-548-2254 | F: 307-548-7610",http://www.bighorn1.com,(307) 548-2254
 https://go.boarddocs.com/mi/lind/Board.nsf/Public,,,https://www.lindenschools.org,
@@ -1695,7 +1695,7 @@ https://go.boarddocs.com/ny/bhcsd/Board.nsf/Public,Byram Hills Central School Di
 https://go.boarddocs.com/in/frankl/Board.nsf/Public,Franklin Community Schools,"998 Grizzly Cub Drive, Franklin IN 46131",http://www.franklinschools.org,
 https://go.boarddocs.com/ny/tufsd/Board.nsf/Public,Public Schools of the Tarrytowns,"200 North Broadway Sleepy Hollow, NY 10591",http://www.tufsd.org,
 https://go.boarddocs.com/az/pusd4/Board.nsf/Public,Pinon Unified School District,"1 Mile North of Hwy 41 Pinon, AZ 86510 | 928-725-3450",https://www.pusdatsa.org,(928) 725-3450
-https://go.boarddocs.com/pa/kisk/Board.nsf/Public,Kiski Area School District,"200 Poplar Street | Vandergrift, PA 15690 | (724) 845-2022",Http://www.kiskiarea.com,(724) 845-2022
+https://go.boarddocs.com/pa/kisk/Board.nsf/Public,Kiski Area School District,"200 Poplar Street | Vandergrift, PA 15690 | (724) 845-2022",http://www.kiskiarea.com,(724) 845-2022
 https://go.boarddocs.com/ma/tom/Board.nsf/Public,"Town of Maynard, Massachusetts","195 Main Street | Maynard, MA 01754 | 978-897-1301 | f 978-897-8457",http://www.townofmaynard-ma.gov,(978) 897-1301
 https://go.boarddocs.com/oh/delphos/Board.nsf/Public,Delphos City Schools,"901 Wildcat Lane | Delphos, OH 45833 | 419-692-2509",https://www.delphoscityschools.org,(419) 692-2509
 https://go.boarddocs.com/wi/barneveld/Board.nsf/Public,Barneveld School District,"304 South Jones Street Barneveld, WI 53507",https://www.barneveld.k12.wi.us,
@@ -2331,7 +2331,7 @@ https://go.boarddocs.com/ny/cecsd/Board.nsf/Public,Cortland Enlarged City School
 https://go.boarddocs.com/oh/gcoesc/Board.nsf/Public,,,http://www.greeneesc.org,
 https://go.boarddocs.com/oh/indep/Board.nsf/Public,Independence Local Schools,"7373 Stone Road, Independence, OH 44131 - 216-642-5850",http://www.independence.k12.oh.us,(216) 642-5850
 https://go.boarddocs.com/il/techcampus/Board.nsf/Public,Lake County Tech Campus,"19525 West Washington Street | Grayslake, Illinois  60030 | p 847-223-6681 | f 847-223-7363",http://www.techcampus.org,(847) 223-6681
-https://go.boarddocs.com/pa/21cccs/Board.nsf/Public,21st Century Cyber Charter School,"1245 Wrights Lane | West Chester, PA  19380 | Ph: 484-875-5400 | Fx: 484-875-5404",http://www.21CCCS.org,(484) 875-5400
+https://go.boarddocs.com/pa/21cccs/Board.nsf/Public,21st Century Cyber Charter School,"1245 Wrights Lane | West Chester, PA  19380 | Ph: 484-875-5400 | Fx: 484-875-5404",http://www.21cccs.org,(484) 875-5400
 https://go.boarddocs.com/mi/faxon/Board.nsf/Public,Faxon Academy,"26275 Northwestern Hwy | Southfield, MI 48076 | 248-301-990",https://www.faxonlia.org,
 https://go.boarddocs.com/wi/omro/Board.nsf/Public,,"School District of Omro, 455 Fox Trl, Omro, WI  54963",http://www.omro.k12.wi.us,
 https://go.boarddocs.com/mi/davi/Board.nsf/Public,Davison Community Schools,,http://www.davisonschools.org,
@@ -2918,7 +2918,7 @@ https://go.boarddocs.com/in/marioncommunity/Board.nsf/Public,Marion Community Sc
 https://go.boarddocs.com/pa/bloo/Board.nsf/Public,Bloomsburg Area School District,"728 East Fifth Street, Bloomsburg, PA 17815-2305.570-784-5000",https://www.bloomsd.org,(570) 784-5000
 https://go.boarddocs.com/mi/chatfield/Board.nsf/Public,The Chatfield School,"231 Lake Drive, Lapeer, MI 48446 Phone (810) 667-8970",https://www.chatfieldschool.org,(810) 667-8970
 https://go.boarddocs.com/mi/aaesa/Board.nsf/Public,Allegan Area Educational Service Agency,"310 Thomas Street, Allegan, MI 49010",https://www.alleganaesa.org,
-https://go.boarddocs.com/az/avon/Board.nsf/Public,Avondale Elementary School District #44,"295 West Western Avenue | Avondale, AZ 85323 |(623) 772-5000 | f (623) 772-5001",http://www.chooseAESD.org,(623) 772-5000
+https://go.boarddocs.com/az/avon/Board.nsf/Public,Avondale Elementary School District #44,"295 West Western Avenue | Avondale, AZ 85323 |(623) 772-5000 | f (623) 772-5001",http://www.chooseaesd.org,(623) 772-5000
 https://go.boarddocs.com/oh/tuslawoh/Board.nsf/Public,Tuslaw Local School District,,http://www.tuslawschools.org,
 https://go.boarddocs.com/ny/owncs/Board.nsf/Public,Our World Neighborhood Charter Schools,"36-12 35th Avenue Astoria, NY 11106 | (718) 392-3405",https://www.owncs.org,(718) 392-3405
 https://go.boarddocs.com/az/ajusd/Board.nsf/Public,Apache Junction Unified School District #43,"1575 W. Southern Avenue | Apache Junction, AZ 85120 | 480.982.1110",https://www.ajusd.org,(480) 982-1110
