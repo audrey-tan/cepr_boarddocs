@@ -9,3 +9,9 @@ First merge by website, since most coverage.
 Then, I now merge by phone. I realized that some websites did not merge because of the various `http` and `www.` forms. I will remove them and do a new merge at the website merge place.
 
 By cleaning the `https` and `www`, I managed to increase the proportion of matches from 37% to 60%.
+
+Merging by phone matches 71% of the remaining ones.
+
+I also realize that some websites are thrown off by the trailing `/`. Putting this at the start.
+
+This further increases the matches from 60% to 78%.
