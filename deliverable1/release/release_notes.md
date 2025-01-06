@@ -2,7 +2,7 @@
 
 The data file can be found at [deliverable_1.csv](deliverable_1.csv).
 
-## Original Specification
+## Original specification
 
 > Deliverable #1: Find all the websites using the https://go.boarddocs.com/ stem (even if they are
 not school boards), capture the name and address of the organization (typically in the top left
