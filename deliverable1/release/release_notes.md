@@ -10,7 +10,7 @@ corner of the webpage as in the above).
 
 ## Result specification
 
-The final csv at [/deliverable_1.csv] has 3,896 rows and 6 columns. The columns are
+The final csv at [deliverable_1.csv](deliverable_1.csv) has 3,896 rows and 6 columns. The columns are
 - `boarddocs_url` which is the BoardDocs URL
 - `school_district` which is the school district name scrapped from BoardDocs
 - `address` which is the school district name address from BoardDocs
@@ -26,18 +26,12 @@ The `phone` column is guaranteed to be 10 digit phone number in the format `(???
 ## Statistics
 
 We collected 3,896 unique BoardDocs URL.
-
-Of these, I managed to find `school_district` values for 93.2% of them. The remaining 6.8% rows have empty values in that column.
-
-`address` values are found for 74.7% of them. The remaining 25.3% rows have empty values.
-
-87.2% or 3,399 of them have "school", "academy", "district", or "education" in their `school_district` or `address` columns. The remaining 12.8% don't.
-
-Additionally, I identified the home website for 97.8% of the rows (3,820), which can be used to match with the NCES database. This is not the BoardDocs website, but the school district's public facing website.
-
-I also extracted the phone numbers for 56.9% of the rows.
-
-Collectively, 98.4% of the rows have either a home website or a phone number, which we can use to match with NCES.
+- 93.2% of them have `school_district` values.
+- 74.7% of them have `address` values
+- 87.2% of them have "school", "academy", "district", or "education" in their `school_district` or `address` columns.
+- 97.8% of them have a `home_website`, which can be used to match with the NCES database. This is not the BoardDocs website, but the school district's public facing website.
+- 56.9% of them have `phone` nunber values.
+- Collectively, 98.4% of the rows have either a home website or a phone number, which we can use to match with NCES.
 
 ## Working notes
 
