@@ -15,3 +15,15 @@ Merging by phone matches 71% of the remaining ones.
 I also realize that some websites are thrown off by the trailing `/`. Putting this at the start.
 
 This further increases the matches from 60% to 78%.
+
+Total matches: 92.8%.
+
+# Jan 15
+
+Match by unique zipcode.
+
+Zipcode matches 78. But some matches are bad. Discard all matches.
+
+Decide to match by name directly. Lower case them. Drop the words "school district" and "SD". Then remove all spaces.
+
+This increases matched to 97.1%.

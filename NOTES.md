@@ -76,3 +76,17 @@ To recap, here is the order that the notebooks were run
 5. `clean_boarddocs_websites.ipynb` to clean the results from scrapping the BoardDocs websites and output the final csv.
 
 The final csv is at `release/deliverable_1.csv`.
+
+# Jan 5
+See `deliverable2/working_notes.md`.
+
+# Jan 15
+Email from Tom:
+
+> Jay:  Can you send tabulation of sites by state?  If there are states that we are missing, I can investigate a few large school board websites in those states to see if there is another vendor used in those states (other than boarddocs and simbli.)
+
+I will proceed to find the number of boarddocs for each state, and compare it to number of schools from NCES for each state.
+
+This work is at `misc/compare_number_schools.ipynb`.
+
+I will do one more improvement to deliverable 2 by matching through unique postal codes.
