@@ -90,3 +90,7 @@ I will proceed to find the number of boarddocs for each state, and compare it to
 This work is at `misc/compare_number_schools.ipynb`.
 
 I will do one more improvement to deliverable 2 by matching through unique postal codes.
+
+Ok done.
+
+Now let's find the state breakdown.
