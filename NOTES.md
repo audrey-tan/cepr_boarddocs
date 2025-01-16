@@ -94,3 +94,6 @@ I will do one more improvement to deliverable 2 by matching through unique posta
 Ok done.
 
 Now let's find the state breakdown.
+
+# Jan 16
+I will fix the plot title to say "school district" instead of "schools", and create a plot for number of schools by using the `OPERATIONAL_SCHOOLS` field.
