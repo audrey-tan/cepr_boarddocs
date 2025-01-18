@@ -204,3 +204,11 @@ I will try to scrape directly using the console via Chrome.
 I got GPT's help on this. [Chat link](https://chatgpt.com/share/e/678b01e1-2954-800e-a1af-56c6502b830b).
 
 I also pasted the two important code chunks to `get_simbli_urls.ipynb` and deleted the old stuff.
+
+Now I can get their links and scrape them at `scrape_simbli.ipynb`.
+
+There's a scrapper protection system called Imperva Incapsula, which is a web application firewall (WAF) and bot protection system.
+
+But even by-passing that, it turns out it is loaded through Angular, so we need selenium instead of requests.
+
+Using selenium, it turns out that Imperva blocks us. Stack Overflow suggests PhantomJS.
