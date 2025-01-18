@@ -97,3 +97,110 @@ Now let's find the state breakdown.
 
 # Jan 16
 I will fix the plot title to say "school district" instead of "schools", and create a plot for number of schools by using the `OPERATIONAL_SCHOOLS` field.
+
+# Jan 17
+I will work on simbli. The idea is that we can reuse most of the code and apply it on the unmatched LEAs. There is 20k LEAs, and we have 4k matches, so we have to run 16k queries. Two days since 10k daily limit. The code difference will be on the scrapping part.
+
+It turns out simbli has this form
+
+https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030881
+
+Note the S query at the end. By changing the number, we get different school districts.
+
+We can get the school identifier by navigating to Index.aspx.
+
+https://simbli.eboardsolutions.com/Index.aspx?S=36030877
+
+This gives information like
+```
+Brea Olinda Unified School District
+1 Civic Center Circle, Level 2
+Brea, CA 92821
+Phone: (714) 990-7800
+Fax: (714) 529-2137
+https://www.bousd.us/
+```
+
+I first find out the range of valid S values at `explore_simbli_range.ipynb`.
+
+I also noticed that the simbli search is very powerful. It can search across the entire country at once.
+
+```
+https://simbli.eboardsolutions.com/Search/ShowSearchResults.aspx?S=240000
+```
+
+The search results suggested 1,982 Organizations.
+
+AL, 36031511
+AR, 36031574
+CA, 36030509
+CO, 240000
+GA, 36031014
+
+GA, 36031014
+
+I notice that we can get a feel of possible numbers by going through the search results for each state. I now ask Claude to help me on this via computer.
+
+Ok I tried it out and Claude was bad at following the orders. But Claude found
+```
+https://sites.eboardsolutions.com/
+```
+
+which has all the sites!
+
+There is a launch site function
+```
+function launchSite() {
+        var url = '';
+        var hdnTargetURL = $('#hdnTargetURL');
+        url = hdnTargetURL.val();
+        var ddlOrg = $('#ddlOrg');
+        url += ddlOrg.val();
+        window.open(url, '_target');
+        //window.location.href = url;
+    }
+```
+
+Let's see if `hdnTargetURL` changes.
+
+When we change the state, `GetOrg` runs.
+```
+function GetOrg(_abbr) {
+    $.ajax({
+        url: "/Home/GetOrgByState",
+        type: "POST",
+        data: {
+            abbr: _abbr,
+            "__RequestVerificationToken":
+                $("input[name=__RequestVerificationToken]").val() 
+
+        },
+        dataType: 'json',
+        success: function (data) {
+            $("#ddlOrg option").remove();
+            var orgLst = data.d;
+            for (var i = 0; i < orgLst.length; i++) {
+                $("#ddlOrg").append("<option value=\"" + orgLst[i].Id + "\">" + orgLst[i].Name + "</option>");
+            }
+            // HideNonPubSites();
+        },
+        error: function (e, l) {
+            alert("Error");
+        }
+    });
+}
+```
+
+It seems like it just gets the orgLst. This is helpful to get the S token.
+
+I now do the scrapping at `get_simbli_urls.ipynb`.
+
+I got 500 errors when trying to post, even with cookies. I think it could be checking the IP address.
+
+[This](https://github.com/Rob--W/cors-anywhere/blob/master/lib/help.txt) is possible, though cookies are not allowed.
+
+I will try to scrape directly using the console via Chrome.
+
+I got GPT's help on this. [Chat link](https://chatgpt.com/share/e/678b01e1-2954-800e-a1af-56c6502b830b).
+
+I also pasted the two important code chunks to `get_simbli_urls.ipynb` and deleted the old stuff.
