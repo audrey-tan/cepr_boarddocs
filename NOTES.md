@@ -218,3 +218,13 @@ Also, [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected
 Using undetected-chromedriver also didn't work. I will try with Harvard VPN on.
 
 Doesn't work. I notice that with undetected-chromedriver, it takes a while for the response to be rejected. I think it is possible that the website is waiting for mouse movement.
+
+The screenshot from undetected-chromedriver shows that a CAPTCHA challenge was presented.
+
+# Jan 19
+
+Let's try using Claude. If Claude doesn't work, then I will look into those scrapper services, test them out and ask Tom for perms for purchase.
+
+Taking a step back, I understand that the RCT experiment only requires us to search. Since we have the search website, we might not need the actual websites themselves. Furthermore, if we did have the actual websites merged with NCES, we will still need a way to scrape them, then do we have to use agents again?
+
+Let me first make a CSV for the websites. This work is at `tidy_simbli_urls.ipynb`. Output is 2016 rows at `simbli_urls.csv`.
