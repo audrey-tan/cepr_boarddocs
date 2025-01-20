@@ -195,7 +195,7 @@ It seems like it just gets the orgLst. This is helpful to get the S token.
 
 I now do the scrapping at `get_simbli_urls.ipynb`.
 
-I got 500 errors when trying to post, even with cookies. I think it could be checking the IP address.
+I got 500-status errors when trying to post, even with cookies. I think it could be checking the IP address.
 
 [This](https://github.com/Rob--W/cors-anywhere/blob/master/lib/help.txt) is possible, though cookies are not allowed.
 
@@ -228,3 +228,36 @@ Let's try using Claude. If Claude doesn't work, then I will look into those scra
 Taking a step back, I understand that the RCT experiment only requires us to search. Since we have the search website, we might not need the actual websites themselves. Furthermore, if we did have the actual websites merged with NCES, we will still need a way to scrape them, then do we have to use agents again?
 
 Let me first make a CSV for the websites. This work is at `tidy_simbli_urls.ipynb`. Output is 2016 rows at `simbli_urls.csv`.
+
+Ok, now how can we operationalize the websites for the RCT? Let's go back to the search site.
+
+```
+https://simbli.eboardsolutions.com/Search/ShowSearchResults.aspx?S=240000
+```
+
+Since they will be searching for an exact phrase that is likely to be a new phrase (e.g. Education Recovery Scorecard only has 3 occurences across all schools), we can just use the default website search tool.
+
+What remains is that how we automatically filter them out so that we only get the ones that are in the RCT. e.g by feeding in a list of URLs.
+
+I can build a filter for them.
+
+Possible workflow:
+1. The researcher will use the [seach page](https://simbli.eboardsolutions.com/Search/ShowSearchResults.aspx?S=240000) to search for the exact phrase.
+2. The researcher then downloads the 
+
+
+I also noticed the request headers. Maybe it's possible to scrape after all?
+
+Also, note that we did manage to scrape the s_tokens by using the console.
+
+I can imagine that we develop a tool where the researcher enters a phrase and then we output the JS code, so the researcher can paste it on the console, and get the result as a json.
+
+Since the researcher is only interested in whether the board mentions it, maybe we can just scrape the most recent match for each LEA.
+
+Note the fields
+```
+"ExistInAgenda": true,
+"ExistInMinutes": false,
+```
+
+Can possibly use `GetSearchedMeetingData`.

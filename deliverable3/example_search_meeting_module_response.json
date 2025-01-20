@@ -1,0 +1,171 @@
+{
+  "meetingSearchResponseDTOs": [
+    {
+      "UniqueId": "9xogdvGrkPe5d5uZOnNslshzw==",
+      "MeetingId": "D9kPuz0qLrIPZViidybMUg==",
+      "MeetingDate": "2024-10-08T17:30:00",
+      "MeetingTitle": "Regular Meeting",
+      "AgendaId": "KtJII0FbZaJGpP0a0TdBnQ==",
+      "AgendaTitle": "Approval of September 2024 Meeting Minutes",
+      "MeetingTypeId": "amIgTZiB9plushNjl6WXhfiOQ==",
+      "MeetingTypeName": "Board Meeting",
+      "SiteId": 11102,
+      "EnSiteId": "zk0lnqwdp28jEq4ZvgkVVg==",
+      "State": "NC",
+      "Industry": null,
+      "OrganizationName": "Guilford County Schools",
+      "SourceType": "DotNetStandardEntities.SearchEntities.Meeting.AgendaAttachmentSearch",
+      "RowType": null,
+      "Count": 0,
+      "Index": 11,
+      "ParentIndex": 10,
+      "Expanded": false,
+      "Show": true,
+      "ExistInAgenda": true,
+      "ExistInMinutes": false,
+      "ExistInPublicComments": false,
+      "MeetingStatus": "1",
+      "Population": 68000,
+      "RegionId": 87,
+      "Region": "Region 5"
+    },
+    {
+      "UniqueId": "b6au1jplushoIU26bIQLplusDi7w==",
+      "MeetingId": "bhkonqTcgzQ4n7hUQIiMlw==",
+      "MeetingDate": "2024-09-10T17:30:00",
+      "MeetingTitle": "Regular Meeting",
+      "AgendaId": "4slshlmEaKIzgQiuEEB2pXahA==",
+      "AgendaTitle": "2023-2024 State Accountability Report",
+      "MeetingTypeId": "amIgTZiB9plushNjl6WXhfiOQ==",
+      "MeetingTypeName": "Board Meeting",
+      "SiteId": 11102,
+      "EnSiteId": "zk0lnqwdp28jEq4ZvgkVVg==",
+      "State": "NC",
+      "Industry": null,
+      "OrganizationName": "Guilford County Schools",
+      "SourceType": "DotNetStandardEntities.SearchEntities.Meeting.MinutesSearch",
+      "RowType": null,
+      "Count": 0,
+      "Index": 12,
+      "ParentIndex": 10,
+      "Expanded": false,
+      "Show": true,
+      "ExistInAgenda": false,
+      "ExistInMinutes": true,
+      "ExistInPublicComments": false,
+      "MeetingStatus": "1",
+      "Population": 68000,
+      "RegionId": 87,
+      "Region": "Region 5"
+    }
+  ],
+  "TotalCount": 7,
+  "SearchedMeetingTypeIds": [
+    13,
+    1
+  ],
+  "SearchedStateAbbvrs": [
+    "AZ",
+    "CA",
+    "NC"
+  ],
+  "OrganizationFilters": [
+    {
+      "Value": 0,
+      "Text": "AZ",
+      "Icon": null,
+      "ParentID": null,
+      "Selected": true,
+      "IsSelected": false,
+      "Show": false,
+      "Encrypted": false,
+      "CustomProperty": false,
+      "Order": 0,
+      "Children": [
+        {
+          "Value": 112020,
+          "Text": "Arizona State Board of Education",
+          "Icon": null,
+          "ParentID": "AZ",
+          "Selected": true,
+          "IsSelected": false,
+          "Show": false,
+          "Encrypted": false,
+          "CustomProperty": false,
+          "Order": 0,
+          "Children": null
+        }
+      ]
+    },
+    {
+      "Value": 0,
+      "Text": "CA",
+      "Icon": null,
+      "ParentID": null,
+      "Selected": true,
+      "IsSelected": false,
+      "Show": false,
+      "Encrypted": false,
+      "CustomProperty": false,
+      "Order": 0,
+      "Children": [
+        {
+          "Value": 36030187,
+          "Text": "Travis Unified School District",
+          "Icon": null,
+          "ParentID": "CA",
+          "Selected": true,
+          "IsSelected": false,
+          "Show": false,
+          "Encrypted": false,
+          "CustomProperty": false,
+          "Order": 0,
+          "Children": null
+        }
+      ]
+    },
+    {
+      "Value": 0,
+      "Text": "NC",
+      "Icon": null,
+      "ParentID": null,
+      "Selected": true,
+      "IsSelected": false,
+      "Show": false,
+      "Encrypted": false,
+      "CustomProperty": false,
+      "Order": 0,
+      "Children": [
+        {
+          "Value": 11102,
+          "Text": "Guilford County Schools",
+          "Icon": null,
+          "ParentID": "NC",
+          "Selected": true,
+          "IsSelected": false,
+          "Show": false,
+          "Encrypted": false,
+          "CustomProperty": false,
+          "Order": 0,
+          "Children": null
+        }
+      ]
+    }
+  ],
+  "ShowStateColumn": true,
+  "ShowOrganizationColumn": true,
+  "HideStateColumnOption": false,
+  "HideOrganizationColumnOption": false,
+  "ShowPopulationColumn": false,
+  "ShowRegionColumn": false,
+  "HidePopulationColumnOption": false,
+  "HideRegionColumnOption": true,
+  "SearchedRegions": [
+    "N/A",
+    "Region 3",
+    "Region 5"
+  ],
+  "SortColumnEnum": 2,
+  "SortDirectionEnum": 0,
+  "ShowRegionGroupColumn": false
+}
