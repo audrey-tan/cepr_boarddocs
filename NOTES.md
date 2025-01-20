@@ -212,3 +212,9 @@ There's a scrapper protection system called Imperva Incapsula, which is a web ap
 But even by-passing that, it turns out it is loaded through Angular, so we need selenium instead of requests.
 
 Using selenium, it turns out that Imperva blocks us. Stack Overflow suggests PhantomJS.
+
+Also, [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) is a thing. I am trying that out now.
+
+Using undetected-chromedriver also didn't work. I will try with Harvard VPN on.
+
+Doesn't work. I notice that with undetected-chromedriver, it takes a while for the response to be rejected. I think it is possible that the website is waiting for mouse movement.
