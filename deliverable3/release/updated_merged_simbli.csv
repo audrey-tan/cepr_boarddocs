@@ -1,0 +1,2017 @@
+simbli_id,LEAID,LEA_NAME
+2,2916740,KIRKSVILLE R-III
+4,2922710,NORTH ANDREW CO. R-VI
+6,2927570,SAVANNAH R-III
+10,2920810,MEXICO 59
+11,2930780,VAN-FAR R-I
+12,2920810,MEXICO 59
+14,2928710,SOUTHWEST R-V
+15,2911670,EXETER R-VI
+16,2908170,CASSVILLE R-IV
+19,2921120,MONETT R-I
+20,2918510,LIBERAL R-II
+22,2917850,LAMAR R-I
+23,,
+25,2902850,ADRIAN R-III
+33,2923640,MEADOW HEIGHTS R-II
+37,2923430,OZARK R-VI
+38,2913560,HALLSVILLE R-IV
+42,2906120,DALLAS CO. R-I
+44,2911940,MID-BUCHANAN CO. R-V
+46,2927060,ST. JOSEPH
+47,2921750,NEELYVILLE R-IV
+51,2913590,HAMILTON R-II
+59,2921875,NEW BLOOMFIELD R-III
+60,2912550,FULTON 58
+61,2928430,SOUTH CALLAWAY CO. R-II
+63,2906990,CAMDENTON R-III
+68,2923070,OAK RIDGE R-VI
+69,2916400,KANSAS CITY 33
+74,2907380,CARROLLTON R-VII
+77,2930750,VAN BUREN R-I
+80,3700360,Bertie County Schools
+83,2925330,PLEASANT HILL R-III
+85,2911070,DREXEL R-IV
+86,2931800,MIDWAY R-I
+87,2904620,BELTON 124
+93,2927520,SALISBURY R-IV
+95,2922530,Nixa Public Schools
+96,2928740,SPARTA R-III
+98,2909780,CLEVER R-V
+99,2923430,OZARK R-VI
+104,2916380,CLARK CO. R-I
+105,2921100,MOBERLY
+106,2928410,SMITHVILLE R-II
+107,2911650,EXCELSIOR SPRINGS 40
+108,2918540,LIBERTY 53
+110,2922800,NORTH KANSAS CITY 74
+117,2916190,JEFFERSON CITY
+119,2906150,COOPER CO. R-IV
+122,2925170,PILOT GROVE C-4
+126,2929430,STEELVILLE R-III
+127,2919140,LOCKWOOD R-I
+130,2913320,GREENFIELD R-IV
+131,2906120,DALLAS CO. R-I
+135,2912660,GALLATIN R-V
+140,2929490,STEWARTSVILLE C-2
+141,2927090,SALEM R-80
+143,2913260,GREEN FOREST R-II
+148,2904050,AVA R-I
+151,2914460,HOLCOMB R-III
+152,2909120,CLARKTON C-4
+155,2916500,KENNETT 39
+157,2923460,MERAMEC VALLEY R-III
+158,2930570,UNION R-XI
+160,2912450,SPRING BLUFF R-XV
+161,2912480,STRAIN-JAPAN R-XVI
+165,2931110,WASHINGTON
+166,2923340,GASCONADE CO. R-II
+167,2914280,GASCONADE CO. R-I
+171,100005,Albertville City
+173,2903270,ASH GROVE R-IV
+174,2930990,WALNUT GROVE R-V
+176,2919170,LOGAN-ROGERSVILLE R-VIII
+177,100870,Conecuh County
+178,2911700,FAIR GROVE R-X
+183,2930360,TRENTON R-IX
+185,2900002,SOUTH HARRISON CO. R-II
+190,3700750,Chatham County Schools
+204,2911990,FAYETTE R-III
+207,100810,Coffee County
+208,2932070,WILLOW SPRINGS R-IV
+210,2931680,WEST PLAINS R-VII
+212,2915060,JUNCTION HILL C-12
+213,2911850,FAIRVIEW R-XI
+214,2928470,SOUTH IRON CO. R-I
+215,2903150,ARCADIA VALLEY R-II
+217,2915510,IRON CO. C-4
+220,2913080,GRAIN VALLEY R-V
+221,2923010,OAK GROVE R-VI
+223,101290,Elmore County
+224,2926070,RAYTOWN C-2
+225,2913140,GRANDVIEW C-4
+228,102400,Monroe County
+229,2908250,CENTER 58
+230,2907350,CARL JUNCTION R-I
+231,2904110,AVILLA R-XIII
+233,2927540,SARCOXIE R-II
+236,2916350,JOPLIN SCHOOLS
+239,2926890,ROLLA 31
+240,2914250,DUNKLIN R-V
+241,2912030,FESTUS R-VI
+242,2916230,JEFFERSON CO. R-VII
+244,2932100,WINDSOR C-1
+245,2912300,FOX C-6
+246,2910380,CRYSTAL CITY 47
+249,2914490,HOLDEN R-III
+250,3703310,Craven County Board of Education
+252,2916830,KNOB NOSTER R-VIII
+256,2910110,LACLEDE CO. R-I
+258,2918270,LEBANON R-III
+259,1300600,Buford City
+269,2921600,MT. VERNON R-V
+270,3701080,Currituck County Schools
+271,2904020,AURORA R-VIII
+273,2918460,LEWIS CO. C-1
+277,2932190,WINFIELD R-IV
+282,2905940,BROOKFIELD R-III
+285,2908760,CHILLICOTHE R-II
+286,2920610,MCDONALD CO. R-I
+289,2916950,LA PLATA R-II
+290,2919410,MACON CO. R-I
+294,2912540,FREDERICKTOWN R-I
+295,2930870,MARIES CO. R-I
+298,2923490,PALMYRA R-I
+302,2911340,ELDON R-I
+305,2927630,SCHOOL OF THE OSAGE
+306,2915420,IBERIA R-V
+308,2908670,CHARLESTON R-I
+312,2930330,TIPTON R-VI
+321,2921330,MONTGOMERY CO. R-II
+322,2929610,MORGAN CO. R-I
+323,2930840,MORGAN CO. R-II
+324,2926610,RISCO R-II
+326,2912780,GIDEON 37
+327,2900004,NEW MADRID CO. R-I
+328,2930420,EAST NEWTON CO. R-VI
+329,2910800,DIAMOND R-IV
+331,1301650,Dawson County
+332,2921810,NEOSHO SCHOOL DISTRICT
+337,2921690,NORTH NODAWAY CO. R-VI
+338,2920490,MARYVILLE R-II
+341,2930270,THAYER R-II
+342,2916860,OREGON-HOWELL R-III
+343,2903060,ALTON R-IV
+346,2931830,OSAGE CO. R-III
+349,2912600,GAINESVILLE R-V
+350,2910950,DORA R-III
+356,,
+358,2907470,CARUTHERSVILLE 18
+360,1302010,Elbert County
+364,2928380,SMITHTON R-VI
+368,2929250,ST. JAMES R-I
+370,3701680,Gates County Schools
+372,2905660,BOWLING GREEN R-I
+373,1302220,Forsyth County
+375,2919260,LOUISIANA R-II
+378,2925230,PLATTE CO. R-III
+380,2905370,BOLIVAR R-I
+384,2920160,MARION C. EARLY R-V
+389,2931440,WAYNESVILLE R-VI
+391,2910350,CROCKER R-II
+396,2914370,HIGBEE R-VIII
+397,2931860,WESTRAN R-I
+398,2921100,MOBERLY
+403,2926480,RICHMOND R-XVI
+405,1302610,Hall County
+406,2906170,BUNKER R-III
+407,2918450,LESTERVILLE R-IV
+411,2926550,RIPLEY CO. R-III
+415,2928920,ST. CHARLES R-VI
+416,2923160,ORCHARD FARM R-V
+417,2903120,APPLETON CITY R-II
+420,3701950,Halifax County Schools
+421,1302940,Jackson County
+422,2911910,FARMINGTON R-VII
+426,1303000,Jeff Davis County
+427,2913830,HAZELWOOD
+428,2912010,FERGUSON-FLORISSANT R-II
+431,2916770,KIRKWOOD R-VII
+432,2918690,LINDBERGH SCHOOLS
+433,1303210,Lamar County
+435,2902910,AFFTON 101
+436,2904500,BAYLESS
+437,2905880,BRENTWOOD
+438,2909720,CLAYTON
+440,2916290,JENNINGS
+441,2917820,LADUE
+442,1303420,Lumpkin County
+443,2922650,NORMANDY SCHOOLS COLLABORATIVE
+445,2926670,RIVERVIEW GARDENS
+446,2930660,UNIVERSITY CITY
+447,2930690,VALLEY PARK
+448,2931530,WEBSTER GROVES
+457,2920410,MARSHALL
+462,2920700,SCOTLAND CO. R-I
+470,3702250,Hoke County Schools
+471,2911450,EMINENCE R-I
+478,2905250,BLOOMFIELD R-XIV
+480,3702280,Hyde County Schools
+491,2912240,FORSYTH R-III
+492,2905760,BRANSON R-IV
+493,2914550,HOLLISTER R-V
+496,2929730,SUCCESS R-VI
+497,2914840,HOUSTON R-I
+498,2929810,SUMMERSVILLE R-II
+499,2918600,LICKING R-VIII
+500,2906430,CABOOL R-IV
+503,2921840,NEVADA R-V
+504,2905910,BRONAUGH R-VII
+507,1304380,Richmond County
+508,2931050,WARREN CO. R-III
+509,2931140,KINGSTON K-14
+510,2925500,POTOSI R-III
+511,2931230,RICHWOODS R-VII
+513,2913380,GREENVILLE R-II
+516,2912180,FORDLAND R-III
+521,2913770,HARTVILLE R-II
+522,2921510,MOUNTAIN GROVE R-III
+640,3703270,Nash County Public Schools
+680,3703480,Orange County Schools
+740,3700012,Pitt County Schools
+800,3704050,Rowan-Salisbury Schools
+820,3704140,Sampson County Schools
+910,3704650,Vance County Schools
+920,1304950,Thomasville City
+940,3704800,Washington County Schools
+1020,1305040,Toombs County
+1058,4606240,Bennett County School District 03-1
+1071,4609512,Burke School District 26-2
+1075,4611280,Castlewood School District 28-1
+1094,4600036,Deuel School District 19-4
+1097,4619450,Dupree School District 64-2
+1104,1305220,Twiggs County
+1105,4621400,Frederick Area School District 06-2
+1124,4629880,Gregory School District 26-4
+1126,4630490,Haakon School District 27-1
+1140,4600025,Howard School District 48-3
+1146,1305460,Warren County
+1150,1305550,Wayne County
+1158,4641640,Leola School District 44-2
+1166,4646260,McIntosh School District 15-1
+1198,4660450,Redfield School District 56-4
+1209,4600053,Sisseton School District 54-2
+1236,4676680,Waubay School District 18-3
+1262,1305850,Worth County
+1594,4647942,Miller 29-4
+1595,1300214,State Specialty Schools I- Mountain Education High School
+2001,1300214,State Specialty Schools I- Mountain Education High School
+2002,101920,Jefferson County
+2003,101920,Jefferson County
+2005,100390,Birmingham City
+2006,103420,Tuscumbia City
+2009,101730,Hartselle City
+2013,100450,Brewton City
+2014,103090,Sumter County
+2017,102010,Lauderdale County
+2032,100005,Albertville City
+2037,100005,Albertville City
+2040,100194,Pelham City
+2045,101690,Guntersville City
+2048,103150,Talladega City
+2050,102100,Limestone County
+2052,100210,Auburn City
+2053,103240,Tallassee City
+2054,102490,Mountain Brook City
+2055,103450,Walker County
+2057,103450,Walker County
+2058,101230,Dothan City
+2059,100006,Marshall County
+2070,100810,Coffee County
+2077,102370,Mobile County
+2084,100120,Athens City
+2086,100420,Blount County
+2088,103360,Tuscaloosa City
+2091,100011,Leeds City
+2092,103390,Tuscaloosa County
+2093,103270,Tarrant City
+2095,102700,Phenix City
+2098,102350,Midfield City
+2101,100660,Chilton County
+2108,101290,Elmore County
+2113,102190,Macon County
+2115,102400,Monroe County
+2117,101760,Homewood City
+2122,102970,Selma City
+2125,100330,Bessemer City
+2134,103120,Sylacauga City
+3561,4900182,Lumen Scholar Institute
+3700,2926890,ROLLA 31
+4002,1300060,Appling County
+4003,1300090,Atkinson County
+4005,1300150,Bacon County
+4007,1300210,Baldwin County
+4008,1300240,Banks County
+4009,1922110,Ottumwa Comm School District
+4010,1300330,Bartow County
+4011,1300360,Ben Hill County
+4012,1300390,Berrien County
+4013,1300420,Bibb County
+4014,1300440,Bleckley County
+4015,1300480,Brantley County
+4016,1300510,Bremen City
+4017,1300540,Brooks County
+4018,1300570,Bryan County
+4019,1300600,Buford City
+4020,1300630,Bulloch County
+4021,1300660,Burke County
+4022,1300690,Butts County
+4023,1300720,Calhoun City
+4024,1300750,Calhoun County
+4025,1300780,Camden County
+4026,1300810,Candler County
+4027,1300840,Carroll County
+4028,1300870,Carrollton City
+4029,1300900,Cartersville City
+4030,1300930,Catoosa County
+4031,1300990,Charlton County
+4032,1301050,Chattahoochee County
+4033,1301080,Chattooga County
+4035,1301140,Chickamauga City
+4037,1301200,Clay County
+4038,1301230,Clayton County
+4039,503690,BRYANT SCHOOL DISTRICT
+4041,1301350,Coffee County
+4042,1301380,Colquitt County
+4044,1301440,Commerce City
+4045,1301470,Cook County
+4046,1301500,Coweta County
+4047,1301530,Crawford County
+4048,1301560,Crisp County
+4049,1301590,Dade County
+4050,1301620,Dalton Public Schools
+4051,611460,Downey Unified
+4052,1301680,City Schools of Decatur
+4053,1301710,Decatur County
+4054,1301740,DeKalb County
+4055,1301770,Dodge County
+4056,1301800,Dooly County
+4057,1301830,Dougherty County
+4058,637350,South Bay Union Elementary
+4059,1301870,Dublin City
+4060,1301920,Early County
+4061,1301950,Echols County
+4062,1301980,Effingham County
+4063,1302010,Elbert County
+4064,1302040,Emanuel County
+4065,1302070,Evans County
+4066,1302100,Fannin County
+4067,1302130,Fayette County
+4068,1302190,Floyd County
+4069,1302220,Forsyth County
+4070,1302250,Franklin County
+4072,1302310,Gainesville City
+4073,1302340,Gilmer County
+4074,1302370,Glascock County
+4075,637200,Sonoma Valley Unified
+4076,1302430,Gordon County
+4077,1302460,Grady County
+4078,1302490,Greene County
+4079,638520,Surprise Valley Joint Unified
+4081,1302580,Habersham County
+4082,1302610,Hall County
+4083,1302640,Hancock County
+4084,1302670,Haralson County
+4085,1302700,Harris County
+4086,638730,Taft Union High
+4087,1302790,Heard County
+4088,1302820,Henry County
+4089,1302880,Houston County
+4091,1302940,Jackson County
+4092,639300,Tipton Elementary
+4093,1303000,Jeff Davis County
+4094,1303030,Jefferson City
+4095,1303060,Jefferson County
+4096,,
+4097,1303120,Johnson County
+4098,1303150,Jones County
+4099,1303210,Lamar County
+4100,1303240,Lanier County
+4101,1301890,Laurens County
+4102,1303270,Lee County
+4103,1303300,Liberty County
+4105,1303360,Long County
+4106,1303390,Lowndes County
+4107,1303420,Lumpkin County
+4108,1303450,Macon County
+4109,1303480,Madison County
+4110,1303510,Marietta City
+4111,1303540,Marion County
+4112,1303570,McDuffie County
+4113,1303600,McIntosh County
+4114,1303630,Meriwether County
+4115,1303660,Miller County
+4116,1303690,Mitchell County
+4117,1303720,Monroe County
+4118,1303750,Montgomery County
+4119,691135,Val Verde Unified
+4120,1303840,Murray County
+4121,1303870,Muscogee County
+4122,1303930,Newton County
+4123,1303960,Oconee County
+4124,1303990,Oglethorpe County
+4125,1304020,Paulding County
+4126,1304050,Peach County
+4127,1304080,Pelham City
+4128,1304110,Pickens County
+4129,1304140,Pierce County
+4130,1304170,Pike County
+4131,1304200,Polk County
+4132,1304220,Pulaski County
+4133,636972,Victor Valley Union High
+4134,1304290,Quitman County
+4135,1304320,Rabun County
+4136,1304350,Randolph County
+4137,1304380,Richmond County
+4138,1304410,Rockdale County
+4139,1304440,Rome City
+4140,1301020,Savannah-Chatham County
+4141,1304470,Schley County
+4142,1304500,Screven County
+4143,1304530,Seminole County
+4144,1304540,Social Circle City
+4145,1304560,Stephens County
+4146,1304590,Stewart County
+4147,1304620,Sumter County
+4148,1304650,Talbot County
+4150,1304770,Tattnall County
+4151,1304800,Taylor County
+4154,1304890,Thomas County
+4155,1305280,Thomaston-Upson County
+4156,1304950,Thomasville City
+4157,1304980,Tift County
+4158,1305040,Toombs County
+4159,1305070,Towns County
+4160,1305100,Treutlen County
+4161,1305130,Trion City
+4162,1300001,Troup County
+4163,1305190,Turner County
+4164,1305220,Twiggs County
+4165,1305250,Union County
+4166,1305310,Valdosta City
+4167,1305340,Vidalia City
+4168,1305370,Walker County
+4170,1305430,Ware County
+4171,1305460,Warren County
+4172,1305490,Washington County
+4173,1305550,Wayne County
+4176,1305670,White County
+4177,1305700,Whitfield County
+4178,1305730,Wilcox County
+4179,1305760,Wilkes County
+4180,1305790,Wilkinson County
+4181,1305850,Worth County
+4183,626820,Nevada City Elementary
+4185,626820,Nevada City Elementary
+4187,627180,Newhall
+4257,627180,Newhall
+10123,627590,North Monterey County Unified
+10399,627590,North Monterey County Unified
+10400,,
+11101,627720,Novato Unified
+11102,3701920,Guilford County Schools
+12218,4670140,Summit School District 54-6
+12225,620460,Pacifica
+12226,4611760,Centerville School District 60-1
+60861,3413110,Pittsgrove Township School District
+60862,3418330,Woodstown-Pilesgrove Regional School District
+60969,629640,Palo Verde Unified
+61236,629640,Palo Verde Unified
+62001,,
+70005,632040,Redding Elementary
+70061,632040,Redding Elementary
+70542,100190,Alabaster City
+70543,629820,Paradise Unified
+70643,100194,Pelham City
+71000,632270,Reef-Sunset Unified
+100000,632270,Reef-Sunset Unified
+100001,630030,Patterson Joint Unified
+100003,632310,Rescue Union Elementary
+100040,632310,Rescue Union Elementary
+100060,632370,Rialto Unified
+100065,632370,Rialto Unified
+100070,630750,Placer Union High
+100075,630750,Placer Union High
+100100,630780,Placerville Union Elementary
+100110,630780,Placerville Union Elementary
+112001,632760,Rio Elementary
+112002,600020,Pleasanton Unified
+112020,600020,Pleasanton Unified
+112025,5900128,Shonto Preparatory School
+136000,,
+136001,600040,Riverdale Joint Unified
+136002,600040,Riverdale Joint Unified
+136005,,
+136100,600013,Rocklin Unified
+140003,600013,Rocklin Unified
+150001,1925980,Sheldon Comm School District
+150010,1926820,Southeast Polk Comm School District
+150015,633600,Roseville City Elementary
+150020,633600,Roseville City Elementary
+150025,1930930,West Des Moines Comm School District
+150030,1918780,Mason City Comm School District
+150035,632070,Redlands Unified
+150040,633690,Round Valley Joint Elementary
+150045,632160,Reed Union Elementary
+150050,633720,Round Valley Unified
+150055,621450,Richland Union Elementary
+150060,632880,Ripon Unified
+150065,633840,Sacramento City Unified
+150070,600061,Riverbank Unified
+150075,600061,Riverbank Unified
+150080,634140,San Benito High
+150085,633390,Romoland Elementary
+150090,633390,Romoland Elementary
+150095,633660,Ross Elementary
+150100,633660,Ross Elementary
+150105,1922110,Ottumwa Comm School District
+150110,633900,Salida Union Elementary
+150115,633900,Salida Union Elementary
+150120,1999013,AEA 13 Green Hills AEA
+150125,1926370,Sioux Center Comm School District
+150130,1917250,Lisbon Comm School District
+150140,1917250,Lisbon Comm School District
+150145,1903540,Ames Comm School District
+170000,3680920,ULSTER BOCES
+170001,3680920,ULSTER BOCES
+170002,3625020,ROSCOE CENTRAL SCHOOL DISTRICT
+170004,3607230,CHEEKTOWAGA CENTRAL SCHOOL DISTRICT
+170005,3622530,PAWLING CENTRAL SCHOOL DISTRICT
+170006,3624960,RONDOUT VALLEY CENTRAL SCHOOL DISTRICT
+170009,3606390,CANASTOTA CENTRAL SCHOOL DISTRICT
+170010,3600023,SULLIVAN WEST CENTRAL SCHOOL DISTRICT
+170011,3614400,HIGHLAND CENTRAL SCHOOL DISTRICT
+170012,3617580,LIVINGSTON MANOR CENTRAL SCHOOL DISTRICT
+180001,2200125,Central Community School District
+190001,,
+190002,,
+190003,635910,Saratoga Union Elementary
+190005,635910,Saratoga Union Elementary
+190007,636270,Selma Unified
+200015,100270,Baldwin County
+220201,636970,Snowline Joint Unified
+230000,636970,Snowline Joint Unified
+240000,635850,Santa Ynez Valley Union High
+260000,635850,Santa Ynez Valley Union High
+6302000,502960,BENTON SCHOOL DISTRICT
+9000000,,
+36030000,503690,BRYANT SCHOOL DISTRICT
+36030001,637560,South Whittier Elementary
+36030056,2909090,CLARKSBURG C-2
+36030057,101620,Gadsden City
+36030109,101440,Fairfield City
+36030126,3609240,DOWNSVILLE CENTRAL SCHOOL DISTRICT
+36030143,2902880,ADVANCE R-IV
+36030144,637950,Stanislaus Union Elementary
+36030146,637950,Stanislaus Union Elementary
+36030149,101800,Huntsville City
+36030150,103210,Tallapoosa County
+36030152,638280,Summerville Union High
+36030153,600021,Sunol Glen Unified
+36030155,636600,Shasta Union High
+36030157,638670,Sylvan Union Elementary
+36030158,611460,Downey Unified
+36030181,636670,Shoreline Unified
+36030182,638880,Tehachapi Unified
+36030185,620070,Konocti Unified
+36030186,600028,Temecula Valley Unified
+36030187,639630,Travis Unified
+36030189,622050,Live Oak Unified
+36030190,637620,Southern Kern Unified
+36030191,626040,Mt. Shasta Union Elementary
+36030192,637350,South Bay Union Elementary
+36030193,637050,Soledad Unified
+36030195,600160,Yosemite Unified
+36030196,601773,Plumas Charter District
+36030198,637110,Solvang Elementary
+36030199,637290,Soquel Union Elementary
+36030200,636800,Sierra Sands Unified
+36030201,636810,Silver Fork Elementary
+36030202,691041,Stanislaus County Office of Education
+36030203,638460,Sunnyvale
+36030204,641610,Washington Union Elementary
+36030205,691041,Stanislaus County Office of Education
+36030206,641790,Waugh Elementary
+36030207,638010,Stockton Unified
+36030208,621480,Lewiston Elementary
+36030209,691032,San Luis Obispo County Office of Education
+36030210,638130,Strathmore Union Elementary
+36030211,637200,Sonoma Valley Unified
+36030212,616740,Hayward Unified
+36030213,626640,Napa Valley Unified
+36030214,638340,Sundale Union Elementary
+36030215,619890,Kit Carson Union Elementary
+36030216,638520,Surprise Valley Joint Unified
+36030217,600035,Farmersville Unified
+36030219,619950,Klamath-Trinity Joint Unified
+36030221,638640,Sweetwater Union High
+36030222,602430,Alvord Unified
+36030223,638730,Taft Union High
+36030224,600069,Valley Center-Pauma Unified
+36030225,638980,Temple City Unified
+36030226,623080,Lucia Mar Unified
+36030227,600034,Windsor Unified
+36030228,638980,Temple City Unified
+36030229,605580,Santa Maria-Bonita
+36030230,639300,Tipton Elementary
+36030231,635010,San Miguel Joint Union
+36030232,601331,Trinity Alps Unified
+36030233,639930,Tulare Joint Union High
+36030234,641400,Wasco Union Elementary
+36030235,604620,Benicia Unified
+36030236,612330,Elk Grove Unified
+36030237,601423,Exeter Unified
+36030238,613800,Fillmore Unified
+36030239,601426,Bonsall Unified
+36030240,601426,Bonsall Unified
+36030241,604260,Beardsley Elementary
+36030242,639870,Tulare City
+36030243,614760,Fullerton Joint Union High
+36030244,614820,Galt Joint Union High
+36030245,639940,Tulelake Basin Joint Unified
+36030246,615180,Gilroy Unified
+36030247,614950,Gateway Unified
+36030248,601409,Bishop Unified
+36030249,615180,Gilroy Unified
+36030250,640260,Two Rock Union
+36030252,605820,Brawley Union High
+36030254,624090,Marysville Joint Unified
+36030255,600016,Upland Unified
+36030256,624150,Maxwell Unified
+36030257,601442,Upper Lake Unified
+36030258,616680,Hawthorne
+36030259,616830,Heber Elementary
+36030260,616920,Hemet Unified
+36030261,691135,Val Verde Unified
+36030262,624330,McKittrick Elementary
+36030263,617340,Hollister
+36030264,618210,Imperial Unified
+36030265,618390,Inglewood Unified
+36030266,640680,Vallecito Union
+36030267,684500,Irvine Unified
+36030268,606690,Butteville Union Elementary
+36030269,625110,Mission Union Elementary
+36030270,618930,Jefferson Union High
+36030271,625190,Modoc Joint Unified
+36030272,640980,Ventura Unified
+36030273,618990,John Swett Unified
+36030274,641190,Vista Unified
+36030275,607500,Carlsbad Unified
+36030276,636972,Victor Valley Union High
+36030277,641190,Vista Unified
+36030278,625690,Moorpark Unified
+36030279,625740,Moraga Elementary
+36030280,620040,Knightsen Elementary
+36030281,600042,Warner Unified
+36030282,620130,La Canada Unified
+36030283,620610,Lake Elementary
+36030285,600027,Lake Elsinore Unified
+36030286,642140,Western Placer Unified
+36030287,620640,Lake Tahoe Unified
+36030288,620850,Lamont Elementary
+36030289,642300,Westwood Unified
+36030290,608760,Claremont Unified
+36030291,642350,Wheatland Union High
+36030292,622380,Las Lomitas Elementary
+36030293,621060,Lassen Union High
+36030294,642540,Williams Unified
+36030295,621330,Lemon Grove
+36030296,642560,Willits Unified
+36030297,621360,Lemoore Union Elementary
+36030298,642710,Willows Unified
+36030299,621420,Lennox
+36030300,627060,Newark Unified
+36030301,621810,Linden Unified
+36030302,609570,Colusa Unified
+36030303,609620,Compton Unified
+36030304,622590,Los Alamitos Unified
+36030305,609810,Corning Union High
+36030307,622800,Los Gatos-Saratoga Union High
+36030309,609870,Coronado Unified
+36030311,609990,Cottonwood Union Elementary
+36030313,622890,Los Nietos
+36030315,600015,Lucerne Valley Unified
+36030317,610350,Cutler-Orosi Joint Unified
+36030319,623530,Mammoth Unified
+36030321,624030,Martinez Unified
+36030322,600038,Mattole Unified
+36030325,624180,McCabe Union Elementary
+36030329,624540,Menifee Union
+36030330,601398,Metropolitan Education
+36030331,628530,Orange Center
+36030332,624900,Millbrae Elementary
+36030333,624500,Milpitas Unified
+36030334,625230,Mojave Unified
+36030335,625800,Moreno Valley Unified
+36030336,625830,Morgan Hill Unified
+36030337,625860,Morongo Unified
+36030338,600029,Murrieta Valley Unified
+36030339,630180,Perris Elementary
+36030341,600036,Natomas Unified
+36030343,626760,Needles Unified
+36030344,630360,Pierce Joint Unified
+36030345,626880,Nevada Joint Union High
+36030346,627180,Newhall
+36030347,627240,Newport-Mesa Unified
+36030348,627590,North Monterey County Unified
+36030349,611700,Dunsmuir Joint Union High
+36030350,611700,Dunsmuir Joint Union High
+36030351,627720,Novato Unified
+36030352,627780,Nuview Union
+36030353,616620,Harmony Union Elementary
+36030354,620460,Pacifica
+36030355,629550,Palm Springs Unified
+36030356,631710,Ramona City Unified
+36030357,631620,Princeton Joint Unified
+36030358,629640,Palo Verde Unified
+36030359,617430,Holtville Unified
+36030360,629700,Palos Verdes Peninsula Unified
+36030361,612690,Empire Union Elementary
+36030362,606390,Panama-Buena Vista Union
+36030363,600032,Redondo Beach Unified
+36030364,629820,Paradise Unified
+36030365,629910,Parlier Unified
+36030366,632250,Reeds Creek Elementary
+36030367,632270,Reef-Sunset Unified
+36030368,600048,Paso Robles Joint Unified
+36030369,630030,Patterson Joint Unified
+36030370,600001,Acton-Agua Dulce Unified
+36030371,618510,Island Union Elementary
+36030372,632370,Rialto Unified
+36030373,100189,Satsuma City
+36030374,601710,Adelanto Elementary
+36030375,632400,Richfield Elementary
+36030376,630750,Placer Union High
+36030377,632610,Rim of the World Unified
+36030378,601860,Albany City Unified
+36030379,619320,Kelseyville Unified
+36030380,630990,Pleasant Valley
+36030381,601890,Alexander Valley Union Elementary
+36030382,600020,Pleasanton Unified
+36030383,602010,Alpaugh Unified
+36030384,631180,Plumas Lake Elementary
+36030385,619540,Kern High
+36030386,600040,Riverdale Joint Unified
+36030387,631290,Pollock Pines Elementary
+36030388,631380,Pope Valley Union Elementary
+36030389,600013,Rocklin Unified
+36030390,619680,King City Union
+36030391,633510,Roseland
+36030392,632010,Red Bluff Joint Union High
+36030393,602450,Amador County Unified
+36030394,631980,Red Bluff Union Elementary
+36030395,603000,Arcata Elementary
+36030396,632070,Redlands Unified
+36030397,603180,Armona Union Elementary
+36030398,633690,Round Valley Joint Elementary
+36030399,603610,Baker Valley Unified
+36030400,633720,Round Valley Unified
+36030401,600061,Riverbank Unified
+36030402,632880,Ripon Unified
+36030403,633840,Sacramento City Unified
+36030404,600061,Riverbank Unified
+36030405,634140,San Benito High
+36030406,633150,Riverside Unified
+36030407,605790,Brawley Elementary
+36030408,606480,Burlingame Elementary
+36030409,634170,San Bernardino City Unified
+36030410,606900,Calexico Unified
+36030411,633750,Rowland Unified
+36030412,600067,Caruthers Unified
+36030413,633860,Saddleback Valley Unified
+36030414,621000,Las Virgenes Unified
+36030415,612600,Elverta Joint Elementary
+36030416,691030,San Diego County Office of Education
+36030417,634425,San Gabriel Unified
+36030418,634320,San Diego Unified
+36030419,634440,San Jacinto Unified
+36030421,634590,San Jose Unified
+36030422,634740,San Lorenzo Valley Unified
+36030423,634680,San Leandro Unified
+36030424,634860,San Marino Unified
+36030425,613530,Fallbrook Union High
+36030426,635070,San Pasqual Valley Unified
+36030427,634980,San Mateo Union High
+36030428,634920,San Mateo-Foster City
+36030429,635130,San Ramon Valley Unified
+36030430,609780,Corning Union Elementary
+36030431,635250,Sanger Unified
+36030433,635430,Santa Clara Unified
+36030434,609850,Corona-Norco Unified
+36030435,635700,Santa Monica-Malibu Unified
+36030436,601421,Santa Paula Unified
+36030437,635670,Santa Maria Joint Union High
+36030438,601329,Santa Rosa City Schools
+36030439,636940,Siskiyou Union High
+36030440,635970,Saugus Union
+36030442,636270,Selma Unified
+36030443,636940,Siskiyou Union High
+36030444,636970,Snowline Joint Unified
+36030445,635790,Santa Rita Union Elementary
+36030446,691040,Sonoma County Office of Education
+36030447,635850,Santa Ynez Valley Union High
+36030448,615270,Glendora Unified
+36030450,636000,Sausalito Marin City
+36030451,637260,Sonora Union High
+36030452,600065,Dinuba Unified
+36030453,615480,Golden Feather Union Elementary
+36030455,637590,Southern Humboldt Joint Unified
+36030456,637890,Standard Elementary
+36030457,615600,Gorman Joint
+36030458,615600,Gorman Joint
+36030459,636390,Sequoia Union High
+36030460,637950,Stanislaus Union Elementary
+36030461,691037,Shasta County Office of Education
+36030462,638220,Sulphur Springs Union
+36030463,638280,Summerville Union High
+36030464,636570,Shasta Union Elementary
+36030465,600021,Sunol Glen Unified
+36030466,636600,Shasta Union High
+36030467,616470,Hanford Elementary
+36030468,638790,Tamalpais Union High
+36030469,636670,Shoreline Unified
+36030470,638880,Tehachapi Unified
+36030471,600158,Turlock Unified
+36030472,640150,Tustin Unified
+36030473,630840,Planada Elementary
+36030474,636805,Sierra Unified
+36030475,636840,Simi Valley Unified
+36030476,601332,Twin Rivers Unified
+36030477,600064,Porterville Unified
+36030478,637050,Soledad Unified
+36030479,640300,Ukiah Unified
+36030480,642810,Wilsona Elementary
+36030481,642810,Wilsona Elementary
+36030482,640380,Union Hill Elementary
+36030483,637290,Soquel Union Elementary
+36030485,637470,South Fork Union
+36030487,637530,South San Francisco Unified
+36030488,600107,Southern California ROC
+36030490,621210,Lawndale Elementary
+36030491,641610,Washington Union Elementary
+36030493,615510,Goleta Union Elementary
+36030494,621270,Le Grand Union High
+36030496,641790,Waugh Elementary
+36030497,621400,Lemoore Union High
+36030498,621480,Lewiston Elementary
+36030499,632550,West Contra Costa Unified
+36030501,643140,Woodside Elementary
+36030502,642510,William S. Hart Union High
+36030503,621870,Lindsay Unified
+36030504,643140,Woodside Elementary
+36030505,641460,Washington Colony Elementary
+36030506,609480,Columbia Union
+36030507,600153,Alhambra Unified
+36030508,622110,Livermore Valley Joint Unified
+36030509,641220,Vista del Mar Union
+36030510,602430,Alvord Unified
+36030511,622350,Loma Prieta Joint Union Elementary
+36030512,602970,Arcadia Unified
+36030513,691136,Aromas - San Juan Unified
+36030514,622440,Lone Pine Unified
+36030515,603420,Atwater Elementary
+36030516,603840,Banning Unified
+36030517,691078,Los Angeles County Office of Education
+36030519,622740,Los Banos Unified
+36030520,604230,Bear Valley Unified
+36030521,622920,Los Olivos Elementary
+36030522,604440,Bellflower Unified
+36030523,634620,San Juan Unified
+36030524,604740,Berkeley Unified
+36030525,604620,Benicia Unified
+36030526,623160,Lynwood Unified
+36030527,604740,Berkeley Unified
+36030528,600025,Manhattan Beach Unified
+36030529,604830,Beverly Hills Unified
+36030532,601426,Bonsall Unified
+36030533,600025,Manhattan Beach Unified
+36030534,604260,Beardsley Elementary
+36030535,623610,Manteca Unified
+36030536,604290,Beaumont Unified
+36030537,604350,Bella Vista Elementary
+36030538,604380,Bellevue Union
+36030540,1921720,Olin Consolidated School District
+36030541,1303330,Lincoln County
+36030542,605010,Big Valley Joint Unified
+36030543,601409,Bishop Unified
+36030544,623970,Mark Twain Union Elementary
+36030545,605280,Blochman Union Elementary
+36030546,605820,Brawley Union High
+36030547,624090,Marysville Joint Unified
+36030548,624150,Maxwell Unified
+36030549,605940,Bret Harte Union High
+36030550,606030,Briggs Elementary
+36030551,1600360,BOISE INDEPENDENT DISTRICT
+36030552,624230,McFarland Unified
+36030553,605880,Brea-Olinda Unified
+36030554,624330,McKittrick Elementary
+36030555,606420,Buena Vista Elementary
+36030556,624360,McSwain Union Elementary
+36030557,606450,Burbank Unified
+36030558,600022,Mendota Unified
+36030559,606570,Burton Elementary
+36030560,624930,Millville Elementary
+36030561,606690,Butteville Union Elementary
+36030562,1906240,Cardinal Comm School District
+36030563,606720,Buttonwillow Union Elementary
+36030564,606750,Byron Union Elementary
+36030567,625190,Modoc Joint Unified
+36030568,607020,Calistoga Joint Unified
+36030569,607170,Camino Union Elementary
+36030570,607470,Cardiff Elementary
+36030571,607500,Carlsbad Unified
+36030572,625350,Monson-Sultana Joint Union Elementary
+36030573,607680,Cascade Union Elementary
+36030574,625690,Moorpark Unified
+36030576,616050,Greenfield Union
+36030577,607840,Cayucos Elementary
+36030578,607900,Center Joint Unified
+36030580,607950,Central Elementary
+36030581,626070,Mountain Elementary
+36030582,608070,Centralia Elementary
+36030583,608130,Ceres Unified
+36030584,600018,Mountain Valley Unified
+36030585,600116,Chawanakee Unified
+36030586,608520,Chowchilla Elementary
+36030587,627040,Mountain Union Elementary
+36030588,608700,Cinnabar Elementary
+36030589,608760,Claremont Unified
+36030590,626370,Mt. Diablo Unified
+36030591,608850,Clay Joint Elementary
+36030592,3700386,North Carolina Cyber Academy
+36030593,691022,Napa County Office of Education
+36030594,609070,Coachella Valley Unified
+36030595,600049,Coast Unified
+36030596,609270,Cold Spring Elementary
+36030597,1301170,Clarke County
+36030598,609330,College Elementary
+36030599,627060,Newark Unified
+36030600,609390,Colton Joint Unified
+36030601,609570,Colusa Unified
+36030602,614250,Fowler Unified
+36030603,609620,Compton Unified
+36030604,609810,Corning Union High
+36030605,614250,Fowler Unified
+36030606,609870,Coronado Unified
+36030607,1900026,South O'Brien  Comm School District
+36030608,609940,Cotati-Rohnert Park Unified
+36030609,1999005,Prairie Lakes AEA
+36030610,642450,Whittier City Elementary
+36030611,600062,Oakdale Joint Unified
+36030612,610320,Curtis Creek Elementary
+36030613,628080,Oakley Union Elementary
+36030614,610350,Cutler-Orosi Joint Unified
+36030615,628250,Oceanside Unified
+36030616,600039,Delhi Unified
+36030617,628270,Ojai Unified
+36030618,611040,Denair Unified
+36030619,628320,Old Adobe Union
+36030620,611130,Di Giorgio Elementary
+36030621,628470,Ontario-Montclair
+36030622,628530,Orange Center
+36030623,611280,Dixon Unified
+36030624,628860,Orinda Union
+36030625,600033,Dos Palos Oro Loma Joint Unified
+36030626,1999015,Great Prairie AEA
+36030627,628950,Oro Grande
+36030628,629220,Oxnard
+36030630,629490,Pajaro Valley Unified
+36030631,630180,Perris Elementary
+36030632,630210,Perris Union High
+36030633,611490,Dry Creek Joint Elementary
+36030634,630360,Pierce Joint Unified
+36030635,600019,Dublin Unified
+36030636,630390,Pine Ridge Elementary
+36030637,611610,Dunham Elementary
+36030638,626220,Mountain View Elementary
+36030639,611670,Dunsmuir Elementary
+36030640,611700,Dunsmuir Joint Union High
+36030642,616570,Happy Valley Union Elementary
+36030643,611850,East Whittier City Elementary
+36030644,616620,Harmony Union Elementary
+36030645,617040,Hermosa Beach City Elementary
+36030646,2927830,SEDALIA 200
+36030647,611940,Edison Elementary
+36030648,617220,Hilmar Unified
+36030649,612090,El Monte City
+36030650,600026,El Tejon Unified
+36030651,617430,Holtville Unified
+36030652,1302910,Irwin County
+36030654,1908610,Davis County Comm School District
+36030655,613080,Eureka Union
+36030656,617580,Horicon Elementary
+36030657,623820,Maricopa Unified
+36030658,613500,Fallbrook Union Elementary
+36030659,617760,Howell Mountain Elementary
+36030660,600060,Hughson Unified
+36030661,1931920,Woodbine Comm School District
+36030662,601650,Acalanes Union High
+36030663,639000,Templeton Unified
+36030664,600001,Acton-Agua Dulce Unified
+36030665,618510,Island Union Elementary
+36030666,100189,Satsuma City
+36030667,601710,Adelanto Elementary
+36030668,691051,Alameda County Office of Education
+36030669,611780,East Nicolaus Joint Union High
+36030670,601770,Alameda Unified
+36030671,619050,Johnstonville Elementary
+36030672,408130,Stanfield Elementary District (4451)
+36030673,619320,Kelseyville Unified
+36030674,100780,Cleburne County
+36030675,601950,Alisal Union
+36030676,619410,Kenwood
+36030677,602010,Alpaugh Unified
+36030678,619540,Kern High
+36030679,3700300,Avery County Schools
+36030680,1900040,East Marshall Comm School District
+36030681,602220,Alta Vista Elementary
+36030682,619620,Keyes Union
+36030683,618690,Jamestown Elementary
+36030684,619680,King City Union
+36030686,619740,Kings River Union Elementary
+36030687,618690,Jamestown Elementary
+36030688,601680,Ackerman Charter
+36030689,602610,Anaheim Elementary
+36030690,4679350,Willow Lake School District 12-3
+36030692,602820,Antelope Valley Union High
+36030694,619800,Kingsburg Elementary Charter
+36030695,603000,Arcata Elementary
+36030696,619830,Kingsburg Joint Union High
+36030697,603180,Armona Union Elementary
+36030698,603300,Atascadero Unified
+36030699,641430,Wasco Union High
+36030701,620250,La Mesa-Spring Valley
+36030702,603600,Azusa Unified
+36030703,603610,Baker Valley Unified
+36030705,603690,Baldwin Park Unified
+36030706,627120,Newcastle Elementary
+36030707,620700,Lakeside Joint
+36030708,620670,Lakeport Unified
+36030709,604200,Bayshore Elementary
+36030710,605700,Borrego Springs Unified
+36030711,620700,Lakeside Joint
+36030712,605790,Brawley Elementary
+36030713,607560,Carpinteria Unified
+36030714,606900,Calexico Unified
+36030716,607200,Campbell Union
+36030717,620730,Lakeside Union
+36030718,607560,Carpinteria Unified
+36030719,600067,Caruthers Unified
+36030720,621000,Las Virgenes Unified
+36030721,621180,Latrobe
+36030723,612600,Elverta Joint Elementary
+36030724,600052,Eureka City Schools
+36030725,607920,Centinela Valley Union High
+36030726,612910,Escondido Union High
+36030727,612880,Escondido Union
+36030728,600052,Eureka City Schools
+36030729,608010,Central Union High
+36030730,607970,Central Unified
+36030732,608370,Chico Unified
+36030733,613530,Fallbrook Union High
+36030734,600037,Ferndale Unified
+36030735,609120,Coalinga-Huron Unified
+36030736,613920,Fontana Unified
+36030738,,
+36030739,609780,Corning Union Elementary
+36030740,614070,Fort Bragg Unified
+36030741,609850,Corona-Norco Unified
+36030742,600011,Fort Sage Unified
+36030743,601420,Fortuna Elementary
+36030744,610050,Covina-Valley Unified
+36030745,614370,Franklin-McKinley Elementary
+36030746,3009120,Dodson K-12
+36030747,614430,Fremont Union High
+36030748,3005760,Carter Elem
+36030750,610620,Davis Joint Unified
+36030751,615090,Gerber Union Elementary
+36030752,610770,Del Norte County Unified
+36030753,610860,Delano Joint Union High
+36030755,3002300,Arrowhead Elem
+36030756,615270,Glendora Unified
+36030757,611100,Desert Center Unified
+36030758,3004380,Boulder Elem
+36030759,611110,Desert Sands Unified
+36030760,600065,Dinuba Unified
+36030761,3007710,Creston Elem
+36030762,3000102,Dutton/Brady K-12 Schools
+36030763,691134,Golden Plains Unified
+36030764,611520,Duarte Unified
+36030765,615600,Gorman Joint
+36030766,612180,El Rancho Unified
+36030767,611870,Eastern Sierra Unified
+36030768,615690,Grant Elementary
+36030770,612030,El Centro Elementary
+36030771,612180,El Rancho Unified
+36030772,616050,Greenfield Union
+36030774,612630,Emery Unified
+36030775,616110,Grenada Elementary
+36030777,616325,Hacienda la Puente Unified
+36030778,601339,Hamilton Unified
+36030779,616470,Hanford Elementary
+36030780,616500,Hanford Joint Union High
+36030781,616560,Happy Valley Elementary
+36030782,3011650,Fromberg K-12
+36030783,630600,Pittsburg Unified
+36030784,3011730,Galata Elem
+36030785,630840,Planada Elementary
+36030786,631050,Pleasant View Elementary
+36030787,631320,Pomona Unified
+36030788,642810,Wilsona Elementary
+36030789,600064,Porterville Unified
+36030790,3016290,Lavina K-12 Schools
+36030791,631530,Poway Unified
+36030792,641580,Washington Unified
+36030793,601418,Woodlake Unified
+36030794,643410,Yreka Union High
+36030795,643470,Yuba City Unified
+36030796,3019170,Nashua K-12 Schools
+36030797,612070,El Dorado Union High
+36030798,643080,Woodland Joint Unified
+36030799,607440,Capistrano Unified
+36030800,618060,Huntington Beach Union High
+36030801,3021000,Plevna K-12 Schools
+36030802,605640,Bonny Doon Union Elementary
+36030803,625500,Montecito Union Elementary
+36030804,691049,Yolo County Office of Education
+36030805,3016110,LaMotte Elem
+36030807,603270,Arvin Union
+36030808,608190,Charter Oak Unified
+36030809,625530,Monterey Peninsula Unified
+36030810,607530,Carmel Unified
+36030811,609300,Colfax Elementary
+36030812,606270,Buckeye Union Elementary
+36030813,608190,Charter Oak Unified
+36030814,609480,Columbia Union
+36030815,641460,Washington Colony Elementary
+36030816,623130,Luther Burbank
+36030817,641220,Vista del Mar Union
+36030818,600063,Waterford Unified
+36030819,605610,Bonita Unified
+36030820,607740,Castaic Union
+36030821,612840,Escalon Unified
+36030822,602360,Alview-Dairyland Union Elementary
+36030823,603420,Atwater Elementary
+36030824,606780,Cabrillo Unified
+36030825,611730,Durham Unified
+36030826,613360,Fairfield-Suisun Unified
+36030827,614790,Galt Joint Union Elementary
+36030828,615150,Geyserville Unified
+36030829,616323,Gustine Unified
+36030830,623340,Madera Unified
+36030831,623800,Marcum-Illinois Union Elementary
+36030832,626100,Mountain Empire Unified
+36030833,634620,San Juan Unified
+36030834,637630,Southern Trinity Joint Unified
+36030835,3028380,Winifred K-12 Schools
+36030837,604110,Bassett Unified
+36030838,640740,Vallejo City Unified
+36030839,3028830,Yaak Elem
+36030840,642210,Westside Elementary
+36030843,600043,Scotts Valley Unified
+36030845,600159,Scott Valley Unified
+36030846,3025500,Swan River Elem
+36030849,3012510,Glendive Elem
+36030850,3016530,Libby K-12 Schools
+36030854,2929760,SULLIVAN
+36030855,,
+36030856,2922500,NIANGUA R-V
+36030857,638250,Summerville Elementary
+36030862,1303330,Lincoln County
+36030863,619200,Junction Elementary
+36030866,1921720,Olin Consolidated School District
+36030867,1601020,EMMETT INDEPENDENT DISTRICT
+36030870,602571,Banta Unified
+36030871,638250,Summerville Elementary
+36030872,101720,Haleyville City
+36030873,100360,Bibb County
+36030875,100202,Gulf Shores City
+36030876,3701500,Winston Salem / Forsyth County Schools
+36030877,3009930,Ennis K-12 Schools
+36030880,619170,Junction City Elementary
+36030881,1910340,River Valley Comm School District
+36030883,604980,Big Springs Union Elementary
+36030884,100202,Gulf Shores City
+36030885,3028860,Yellowstone Academy Elem
+36030886,102650,Pell City
+36030887,3017580,Malta K-12 Schools
+36030888,608550,Chowchilla Union High
+36030890,,
+36030891,602670,West Sonoma County Union High
+36030892,4675600,Smee School District 15-3
+36030893,612930,Esparto Unified
+36030895,635220,San Ysidro Elementary
+36030896,608550,Chowchilla Union High
+36030897,100480,Bullock County
+36030900,640650,Valle Lindo Elementary
+36030901,4675600,Smee School District 15-3
+36030903,604020,Barstow Unified
+36030905,600014,Hesperia Unified
+36030906,608970,Cloverdale Unified
+36030907,630930,Pleasant Ridge Union Elementary
+36030908,613740,Fieldbrook Elementary
+36030909,614520,Freshwater Elementary
+36030910,616080,Greenfield Union Elementary
+36030911,600014,Hesperia Unified
+36030912,629430,Pacific Union Elementary
+36030915,3027570,West Valley Elem
+36030916,3011100,Florence-Carlton K-12 Schls
+36030917,102480,Morgan County
+36030918,2914310,HERMITAGE R-IV
+36030919,629850,Paramount Unified
+36030920,605490,Bogus Elementary
+36030921,601428,Wiseburn Unified
+36030922,613170,Evergreen Union
+36030924,102430,Montgomery County
+36030926,2680755,West Shore Educational Service District
+36030927,1932010,Woodward-Granger Comm School District
+36030929,2926790,ROCK PORT R-II
+36030931,691052,Mono County Office of Education
+36030932,601330,Modesto City Schools
+36030933,691011,Inyo County Office of Education
+36030934,3703330,New Hanover County Schools
+36030935,100090,Anniston City
+36030936,2926790,ROCK PORT R-II
+36030937,2902970,ALBANY R-III
+36030938,1926790,South Winneshiek Comm School District
+36030940,691002,Butte County Office of Education
+36030941,3700386,North Carolina Cyber Academy
+36030942,100090,Anniston City
+36030943,4639990,Lake Preston School District 38-3
+36030944,1903690,Ankeny Comm School District
+36030949,1908940,Denver Comm School District
+36030950,691002,Butte County Office of Education
+36030951,2926040,RAYMONDVILLE R-VII
+36030954,101380,Etowah County
+36030957,1301170,Clarke County
+36030958,605490,Bogus Elementary
+36030959,1918510,Maquoketa Comm School District
+36030960,3704890,Weldon City Schools
+36030961,641880,Weaver Union
+36030962,614250,Fowler Unified
+36030964,1932010,Woodward-Granger Comm School District
+36030965,2925450,POPLAR BLUFF R-I
+36030967,2919890,MALDEN R-I
+36030968,603780,Bangor Union Elementary
+36030969,1301410,Columbia County
+36030971,102580,Opelika City
+36030972,607770,Castle Rock Union Elementary
+36030973,600051,Gridley Unified
+36030974,641980,Weed Union Elementary
+36030976,642450,Whittier City Elementary
+36030977,100300,Barbour County
+36030978,1906270,Carlisle Comm School District
+36030980,2927450,OREARVILLE R-IV
+36030981,624300,McKinleyville Union Elementary
+36030983,100188,Chickasaw City
+36030984,1903690,Ankeny Comm School District
+36030985,600085,Eden Area ROP
+36030986,642270,West Side Union Elementary
+36030988,601427,Penn Valley Union Elementary
+36030990,101380,Etowah County
+36030991,2927450,OREARVILLE R-IV
+36030993,620220,La Honda-Pescadero Unified
+36031002,4620100,Eagle Butte School District 20-1
+36031004,620520,Lagunitas Elementary
+36031005,641880,Weaver Union
+36031007,2731800,ROCHESTER PUBLIC SCHOOL DISTRICT
+36031008,607230,Campbell Union High
+36031013,1903090,Adair-Casey Comm School District
+36031014,1300120,Atlanta Public Schools
+36031016,1931110,West Monona Comm School District
+36031017,605400,Blue Lake Union Elementary
+36031018,3704590,Tyrrell County Schools
+36031019,100630,Cherokee County
+36031020,1603330,WEISER DISTRICT
+36031021,607230,Campbell Union High
+36031022,628830,Orick Elementary
+36031023,637380,South Bay Union
+36031024,4644770,Lyman School District 42-1
+36031025,102880,Russell County
+36031026,2923270,OSCEOLA
+36031027,406440,Pima Unified District (4220)
+36031030,642060,West Park Elementary
+36031032,605520,Bolinas-Stinson Union
+36031033,1907920,Colo-NESCO  Comm School District
+36031034,100240,Autauga County
+36031035,2927830,SEDALIA 200
+36031036,604950,Big Pine Unified
+36031037,1915750,Kingsley-Pierson Comm School District
+36031038,621540,Liberty Elementary
+36031039,1903480,Alta-Aurelia Comm School District
+36031040,2910200,COUCH R-I
+36031041,631680,Raisin City Elementary
+36031042,627900,Oak Valley Union Elementary
+36031043,630870,Plaza Elementary
+36031044,605240,Black Oak Mine Unified
+36031045,2905580,BOONVILLE R-I
+36031047,2919950,MANES R-V
+36031048,3702370,Johnston County Public Schools
+36031049,1922440,Pekin Comm School District
+36031050,604500,Belleview Elementary
+36031051,5602140,Converse County School District #1
+36031052,1930480,Waterloo Comm School District
+36031053,4619580,Jones County School District 37-3
+36031054,1302910,Irwin County
+36031055,639720,Trinidad Union Elementary
+36031056,633630,Roseville Joint Union High
+36031057,643200,Wright Elementary
+36031058,642060,West Park Elementary
+36031059,623820,Maricopa Unified
+36031060,4654300,Parkston School District 33-3
+36031062,1917820,Louisa-Muscatine Comm School District
+36031063,3600013,ONEIDA CITY SCHOOL DISTRICT
+36031064,1931470,Westwood Comm School District
+36031065,3004230,Blue Creek Elem
+36031066,639000,Templeton Unified
+36031067,3008130,Custer K-12 Schools
+36031068,3703510,Pamlico County Schools
+36031069,4665180,Scotland School District 04-3
+36031070,623010,Lowell Joint
+36031071,630870,Plaza Elementary
+36031072,102070,Lee County
+36031073,624750,Middletown Unified
+36031074,2931020,WARRENSBURG R-VI
+36031075,408820,Union Elementary District (4277)
+36031077,4624850,Stanley County School District 57-1
+36031078,100780,Cleburne County
+36031079,100900,Coosa County
+36031080,623010,Lowell Joint
+36031081,639840,Trona Joint Unified
+36031082,2921360,MONTROSE R-XIV
+36031083,603720,Ballard Elementary
+36031084,2931020,WARRENSBURG R-VI
+36031086,3700300,Avery County Schools
+36031089,618690,Jamestown Elementary
+36031090,100100,Arab City
+36031091,3020690,Pine Grove Elem
+36031092,101110,Dallas County
+36031093,102640,Ozark City
+36031094,1923110,Pleasant Valley Comm School District
+36031095,3013110,Greenfield Elem
+36031096,609690,Corcoran Joint Unified
+36031097,614190,Fortuna Union High
+36031098,1926910,Spencer Comm School District
+36031099,691038,Siskiyou County Office of Education
+36031100,691005,Contra Costa County Office of Education
+36031101,616530,Happy Camp Union Elementary
+36031103,601680,Ackerman Charter
+36031104,618780,Janesville Union Elementary
+36031105,2920820,MIAMI R-I
+36031106,629370,Pacific Grove Unified
+36031107,1918840,MOC-Floyd Valley Comm School District
+36031108,100030,Alexander City
+36031109,102670,Perry County
+36031110,1600510,CALDWELL DISTRICT
+36031111,614700,Fruitvale Elementary
+36031112,642580,Laytonville Unified
+36031113,3700210,Ashe County Schools
+36031114,3009030,Dixon Elem
+36031115,629370,Pacific Grove Unified
+36031116,641430,Wasco Union High
+36031117,616320,Guerneville Elementary
+36031118,600012,Twin Ridges Elementary
+36031119,1302550,Gwinnett County
+36031120,611550,Ducor Union Elementary
+36031121,100540,Calhoun County
+36031122,2928290,SILEX R-I
+36031123,627120,Newcastle Elementary
+36031124,103581,Orange Beach City
+36031125,1918180,Madrid Comm School District
+36031126,601843,CORE Butte Charter District
+36031127,3702310,Iredell-Statesville Schools
+36031128,2201020,Livingston Parish
+36031129,100720,Clarke County
+36031130,102910,Russellville City
+36031131,3017370,Luther Elem
+36031132,103582,Empower Community School
+36031133,1903960,Audubon Comm School District
+36031134,101410,Eufaula City
+36031135,100204,i3 Academy
+36031136,101200,Demopolis City
+36031137,1914640,Indianola Comm School District
+36031138,632520,Richmond Elementary
+36031139,1914670,Interstate 35 Comm School District
+36031140,2925210,PLATO R-V
+36031141,639180,Thermalito Union Elementary
+36031142,610260,Culver City Unified
+36031143,1908520,Dallas Center-Grimes Comm School District
+36031144,102670,Perry County
+36031145,3001860,Alberton K-12 Schools
+36031146,802460,Bethune School District No. R- 5
+36031147,,
+36031148,3700210,Ashe County Schools
+36031149,642930,Winters Joint Unified
+36031150,,
+36031151,3009120,Dodson K-12
+36031152,,
+36031153,100007,Hoover City
+36031154,102250,Marengo County
+36031155,,
+36031156,1914310,Hubbard-Radcliffe Comm School District
+36031157,1910690,Eldora-New Providence Comm School District
+36031159,601971,Oakland Military Inst College Prep Acad DIST
+36031160,3000015,Carter
+36031161,3000016,Cascade
+36031162,601843,CORE Butte Charter District
+36031163,3004380,Boulder Elem
+36031164,604890,Big Lagoon Union Elementary
+36031165,3005990,Cayuse Prairie Elem
+36031166,1906060,Camanche Comm School District
+36031167,102910,Russellville City
+36031168,610380,Cutten Elementary
+36031169,3017370,Luther Elem
+36031170,4010170,DRUMMOND
+36031171,1914580,Independence Comm School District
+36031172,3000102,Dutton/Brady K-12 Schools
+36031173,102730,Pickens County
+36031174,1919200,Midland Comm School District
+36031175,3001980,Amsterdam Elem
+36031176,1914640,Indianola Comm School District
+36031177,1908880,Delwood Comm School District
+36031178,1914670,Interstate 35 Comm School District
+36031179,3000012,Bear Paw Cooperative
+36031180,3000060,Big Sky Special Needs Coop
+36031181,613470,Fall River Joint Unified
+36031182,691137,Big Oak Flat-Groveland Unified
+36031183,1930900,West Delaware County Comm School District
+36031184,,
+36031185,3014430,Hobson K-12 Schools
+36031186,3014640,Hot Springs K-12
+36031187,1931830,Winfield-Mt Union Comm School District
+36031188,1904680,Belmond-Klemme Comm School District
+36031189,1905790,Burlington Comm School District
+36031190,3011650,Fromberg K-12
+36031191,2201830,Vernon Parish
+36031192,1931950,Woodbury Central Comm School District
+36031193,3011790,Gallatin Gateway Elem
+36031194,2623820,Midland Public Schools
+36031195,102250,Marengo County
+36031196,1912480,George-Little Rock Comm School District
+36031197,1906750,Centerville Comm School District
+36031198,1906900,Central Decatur Comm School District
+36031199,1904560,Bedford Comm School District
+36031200,1909570,Boyer Valley Comm School District
+36031201,3019170,Nashua K-12 Schools
+36031202,3008880,DeSmet Elem
+36031203,3000099,Heart Butte K-12 Schools
+36031204,1903930,Atlantic Comm School District
+36031205,3020790,Pioneer Elem
+36031206,1906060,Camanche Comm School District
+36031207,611430,Douglas City Elementary
+36031208,507890,HOT SPRINGS SCHOOL DISTRICT
+36031209,610380,Cutten Elementary
+36031210,3021850,Ramsay Elem
+36031211,623730,Maple Creek Elementary
+36031212,1914580,Independence Comm School District
+36031213,,
+36031214,1914580,Independence Comm School District
+36031215,102730,Pickens County
+36031216,3023160,Roy K-12 Schools
+36031217,3023340,Ryegate K-12 Schools
+36031218,3016710,Lima K-12 Schools
+36031219,1908880,Delwood Comm School District
+36031220,3017700,Marion Elem
+36031221,642480,Whittier Union High
+36031222,610290,Cupertino Union
+36031223,100008,Madison City
+36031225,613470,Fall River Joint Unified
+36031226,3024990,Stanford K-12 Schools
+36031227,3025320,Sunburst K-12 Schools
+36031228,3025500,Swan River Elem
+36031229,3025530,Swan Valley Elem
+36031230,3025560,Sweet Grass County H S
+36031231,1931830,Winfield-Mt Union Comm School District
+36031232,1904680,Belmond-Klemme Comm School District
+36031233,1905790,Burlington Comm School District
+36031234,,
+36031235,1926580,Solon Comm School District
+36031237,1931950,Woodbury Central Comm School District
+36031238,1908910,Denison Comm School District
+36031239,2623820,Midland Public Schools
+36031240,1903360,Algona Comm School District
+36031241,1912480,George-Little Rock Comm School District
+36031242,1906750,Centerville Comm School District
+36031243,1906900,Central Decatur Comm School District
+36031244,3000072,Rosebud
+36031245,1909570,Boyer Valley Comm School District
+36031246,1906900,Central Decatur Comm School District
+36031247,3028830,Yaak Elem
+36031248,1912690,Glenwood Comm School District
+36031249,,
+36031250,3000075,Sheridan
+36031251,3011520,Frenchtown K-12 Schools
+36031252,3012510,Glendive Elem
+36031253,3016530,Libby K-12 Schools
+36031254,3000656,Lockwood K-12
+36031255,3025320,Sunburst K-12 Schools
+36031256,3025500,Swan River Elem
+36031257,1603120,SWAN VALLEY ELEMENTARY DISTRICT
+36031258,,
+36031259,,
+36031260,,
+36031261,,
+36031262,,
+36031263,3002730,Baker K-12 Schools
+36031264,3003090,Beaverhead County H S
+36031265,3000654,Big Sky School K-12
+36031266,,
+36031267,3004260,Bonner Elem
+36031268,,
+36031269,,
+36031270,3006840,Clancy Elem
+36031271,,
+36031272,3000085,Wibaux
+36031273,3008670,Deer Lodge Elem
+36031274,3009930,Ennis K-12 Schools
+36031275,,
+36031276,,
+36031277,,
+36031278,3015120,Jefferson H S
+36031279,3028860,Yellowstone Academy Elem
+36031280,,
+36031281,3017580,Malta K-12 Schools
+36031282,,
+36031283,,
+36031284,3020960,Plentywood K-12 Schools
+36031285,,
+36031286,3023670,Scobey K-12 Schools
+36031287,,
+36031288,,
+36031289,3025470,Superior K-12 Schools
+36031290,,
+36031291,,
+36031292,,
+36031293,,
+36031294,,
+36031295,,
+36031296,,
+36031297,,
+36031298,,
+36031299,,
+36031300,3018750,Monforton Elem
+36031301,,
+36031302,,
+36031303,3004980,Townsend K-12 Schools
+36031304,3027570,West Valley Elem
+36031305,3011100,Florence-Carlton K-12 Schls
+36031306,3014700,Huntley Project K-12 Schools
+36031307,,
+36031308,1920850,North Mahaska Comm School District
+36031309,605490,Bogus Elementary
+36031310,,
+36031311,103000,Sheffield City
+36031312,603060,Arcohe Union Elementary
+36031313,102220,Madison County
+36031314,,
+36031315,1932010,Woodward-Granger Comm School District
+36031316,1911070,Estherville Lincoln Central Com Sch Dist
+36031317,1925590,Sergeant Bluff-Luton Comm School District
+36031318,1926250,Sidney Comm School District
+36031319,,
+36031320,,
+36031321,102580,Opelika City
+36031322,4651750,Northwestern Area School District 56-7
+36031323,637500,South Pasadena Unified
+36031324,,
+36031325,,
+36031326,1926790,South Winneshiek Comm School District
+36031327,691003,Calaveras County Office of Education
+36031328,4621340,Elk Point-Jefferson School District 61-7
+36031329,100990,Cullman City
+36031330,1921210,Northwood-Kensett Comm School District
+36031331,,
+36031332,2918300,LEE'S SUMMIT R-VII
+36031333,,
+36031334,1903690,Ankeny Comm School District
+36031335,1908940,Denver Comm School District
+36031336,3701110,Dare County Schools
+36031337,,
+36031338,101380,Etowah County
+36031340,1912510,Gilbert Comm School District
+36031341,,
+36031342,1918510,Maquoketa Comm School District
+36031343,1927600,Sumner-Fredericksburg Comm School District
+36031344,605490,Bogus Elementary
+36031345,,
+36031346,103000,Sheffield City
+36031347,1903090,Adair-Casey Comm School District
+36031352,2905640,CRAWFORD CO. R-I
+36031353,2905400,BONCL R-X
+36031354,603780,Bangor Union Elementary
+36031355,4675420,Wagner Community School District 11-4
+36031356,630520,Pioneer Union Elementary
+36031357,623700,Manzanita Elementary
+36031360,607770,Castle Rock Union Elementary
+36031361,1301410,Columbia County
+36031362,102580,Opelika City
+36031363,634880,San Marcos Unified
+36031364,1900021,Okoboji Comm School District
+36031365,637500,South Pasadena Unified
+36031366,,
+36031367,624300,McKinleyville Union Elementary
+36031368,691033,San Mateo County Office of Education
+36031369,691003,Calaveras County Office of Education
+36031370,605520,Bolinas-Stinson Union
+36031371,100990,Cullman City
+36031372,1919890,Mount Pleasant Comm School District
+36031373,102635,Oxford City
+36031374,2918300,LEE'S SUMMIT R-VII
+36031375,2923550,PARK HILL
+36031376,602284,OCSA District
+36031377,,
+36031378,3701110,Dare County Schools
+36031380,102520,Muscle Shoals City
+36031381,101380,Etowah County
+36031382,,
+36031383,2731800,ROCHESTER PUBLIC SCHOOL DISTRICT
+36031384,1918510,Maquoketa Comm School District
+36031385,1927600,Sumner-Fredericksburg Comm School District
+36031388,641880,Weaver Union
+36031389,2201980,West Feliciana Parish
+36031390,100013,Trussville City
+36031391,1903090,Adair-Casey Comm School District
+36031392,636420,Shaffer Union Elementary
+36031393,2905400,BONCL R-X
+36031394,603780,Bangor Union Elementary
+36031395,4675420,Wagner Community School District 11-4
+36031396,630520,Pioneer Union Elementary
+36031397,2920880,MIDDLE GROVE C-1
+36031398,629130,Oroville Union High
+36031399,1603330,WEISER DISTRICT
+36031400,1602580,PAYETTE JOINT DISTRICT
+36031401,1300006,Northwest Georgia RESA
+36031402,,
+36031403,642060,West Park Elementary
+36031404,,
+36031405,1907920,Colo-NESCO  Comm School District
+36031406,691033,San Mateo County Office of Education
+36031407,616230,Grossmont Union High
+36031408,605520,Bolinas-Stinson Union
+36031409,1915750,Kingsley-Pierson Comm School District
+36031410,691043,Tehama County Department of Education
+36031412,102635,Oxford City
+36031413,691028,San Benito County Office of Education
+36031414,1907080,Charles City Comm School District
+36031415,627900,Oak Valley Union Elementary
+36031417,630870,Plaza Elementary
+36031418,638070,Stony Creek Joint Unified
+36031419,607410,Capay Joint Union Elementary
+36031420,625290,Monroe Elementary
+36031421,102520,Muscle Shoals City
+36031423,1922440,Pekin Comm School District
+36031424,4641300,Lead-Deadwood School District 40-1
+36031425,604500,Belleview Elementary
+36031426,102040,Lawrence County
+36031427,1930480,Waterloo Comm School District
+36031428,605240,Black Oak Mine Unified
+36031429,601414,Santa Barbara Unified
+36031430,100013,Trussville City
+36031431,1900022,Union Comm School District
+36031432,636420,Shaffer Union Elementary
+36031433,637140,Somis Union
+36031435,1925620,Seymour Comm School District
+36031436,602760,Antelope Elementary
+36031437,2910520,LAKELAND R-III
+36031438,2920880,MIDDLE GROVE C-1
+36031439,629130,Oroville Union High
+36031440,1300012,Griffin RESA
+36031441,4632340,Henry School District 14-2
+36031442,1300006,Northwest Georgia RESA
+36031443,,
+36031444,3028550,Wolf Creek Elem
+36031445,,
+36031446,3004230,Blue Creek Elem
+36031447,,
+36031448,1304830,Telfair County
+36031449,1931470,Westwood Comm School District
+36031450,3703510,Pamlico County Schools
+36031451,691043,Tehama County Department of Education
+36031452,1906540,Cedar Rapids Comm School District
+36031453,1918030,Lynnville-Sully Comm School District
+36031454,1907080,Charles City Comm School District
+36031463,,
+36031464,630870,Plaza Elementary
+36031465,601841,JCS - Manzanita District
+36031466,607410,Capay Joint Union Elementary
+36031467,606810,Cajon Valley Union
+36031470,2929850,SWEDEBORG R-III
+36031471,601931,Ridgecrest Elem Acad for Language Music and Sci District
+36031475,100012,Boaz City
+36031476,604500,Belleview Elementary
+36031477,102040,Lawrence County
+36031478,1913500,Harlan Comm School District
+36031479,102550,Oneonta City
+36031480,601414,Santa Barbara Unified
+36031481,603720,Ballard Elementary
+36031482,3013530,Harrison K-12 Schools
+36031483,2906090,BUCKLIN R-II
+36031484,1919740,Mormon Trail Comm School District
+36031485,1925620,Seymour Comm School District
+36031486,618120,Hydesville Elementary
+36031487,2912630,GALENA R-II
+36031488,101110,Dallas County
+36031489,102640,Ozark City
+36031490,1923110,Pleasant Valley Comm School District
+36031491,606580,Butte Valley Unified
+36031493,619860,Kirkwood Elementary
+36031494,103582,Empower Community School
+36031495,1926910,Spencer Comm School District
+36031496,1927480,Stratford Comm School District
+36031497,1926640,South Hamilton Comm School District
+36031498,101200,Demopolis City
+36031499,,
+36031500,,
+36031501,618780,Janesville Union Elementary
+36031502,2619170,Inland Lakes Schools
+36031503,,
+36031504,3000019,Custer
+36031505,3200360,Nye
+36031506,1918840,MOC-Floyd Valley Comm School District
+36031507,3703510,Pamlico County Schools
+36031508,100840,Colbert County
+36031509,1906540,Cedar Rapids Comm School District
+36031510,635310,Santa Ana Unified
+36031511,100030,Alexander City
+36031512,3700210,Ashe County Schools
+36031513,1600510,CALDWELL DISTRICT
+36031514,3009030,Dixon Elem
+36031515,2929640,STRAFFORD R-VI
+36031516,609665,Leggett Valley Unified
+36031517,,
+36031518,2929850,SWEDEBORG R-III
+36031519,601931,Ridgecrest Elem Acad for Language Music and Sci District
+36031520,100012,Boaz City
+36031521,1923340,Postville Comm School District
+36031522,2908370,FORT ZUMWALT SCHOOL DISTRICT
+36031523,1913500,Harlan Comm School District
+36031524,600012,Twin Ridges Elementary
+36031525,601574,Yuba Environmental Science Charter Academy District
+36031526,603720,Ballard Elementary
+36031527,601843,CORE Butte Charter District
+36031528,509570,MAYNARD SCHOOL DISTRICT
+36031529,,
+36031530,,
+36031531,102910,Russellville City
+36031533,3017370,Luther Elem
+36031534,,
+36031535,1903960,Audubon Comm School District
+36031536,101110,Dallas County
+36031537,102640,Ozark City
+36031538,1923110,Pleasant Valley Comm School District
+36031539,606580,Butte Valley Unified
+36031540,619860,Kirkwood Elementary
+36031541,103582,Empower Community School
+36031542,1914670,Interstate 35 Comm School District
+36031543,1927480,Stratford Comm School District
+36031544,614400,Fremont Unified
+36031545,101200,Demopolis City
+36031546,2201500,St. James Parish
+36031547,2926370,RICHARDS R-V
+36031548,,
+36031549,2619170,Inland Lakes Schools
+36031550,2925080,PHELPS CO. R-III
+36031551,1920040,Mount Vernon Comm School District
+36031552,,
+36031554,1918840,MOC-Floyd Valley Comm School District
+36031555,642930,Winters Joint Unified
+36031557,,
+36031559,102670,Perry County
+36031560,,
+36031561,600031,Big Sur Unified
+36031562,4600042,Agar-Blunt-Onida School District 58-3
+36031563,3700210,Ashe County Schools
+36031564,2903200,ARCHIE R-V
+36031565,,
+36031566,,
+36031567,609665,Leggett Valley Unified
+36031568,3000047,Lincoln
+36031569,601971,Oakland Military Inst College Prep Acad DIST
+36031572,640230,Twin Hills Union Elementary
+36031573,611550,Ducor Union Elementary
+36031574,3008880,DeSmet Elem
+36031575,100540,Calhoun County
+36031576,604890,Big Lagoon Union Elementary
+36031577,608580,Chualar Union
+36031579,607140,Cambrian
+36031580,,
+36031581,601843,CORE Butte Charter District
+36031582,,
+36031595,1921090,Northeast Comm School District
+36031596,1914580,Independence Comm School District
+36031597,1927390,Storm Lake Comm School District
+36031598,102910,Russellville City
+36031599,1911820,Fort Dodge Comm School District
+36031601,-1,
+36031602,1903630,Andrew Comm School District
+36031603,1908880,Delwood Comm School District
+36031604,1903960,Audubon Comm School District
+36031605,1304860,Terrell County
+36031606,610290,Cupertino Union
+36031607,100008,Madison City
+36031608,613470,Fall River Joint Unified
+36031609,1302280,Fulton County
+36031610,1930900,West Delaware County Comm School District
+36031611,1914670,Interstate 35 Comm School District
+36031612,2631380,Shepherd Public Schools
+36031613,2803360,OCEAN SPRINGS SCHOOL DIST
+36031614,610260,Culver City Unified
+36031615,1931830,Winfield-Mt Union Comm School District
+36031616,1904680,Belmond-Klemme Comm School District
+36031617,1905790,Burlington Comm School District
+36031619,2928360,SLATER
+36031620,1926580,Solon Comm School District
+36031621,100180,Attalla City
+36031622,1908910,Denison Comm School District
+36031623,2623820,Midland Public Schools
+36031624,1903360,Algona Comm School District
+36031625,642930,Winters Joint Unified
+36031626,1906750,Centerville Comm School District
+36031627,1906900,Central Decatur Comm School District
+36031628,2201830,Vernon Parish
+36031629,1909570,Boyer Valley Comm School District
+36031630,100007,Hoover City
+36031631,1900060,GMG Comm School District
+36031632,102250,Marengo County
+36031633,2903200,ARCHIE R-V
+36031634,614880,Garden Grove Unified
+36031635,1601140,FRUITLAND DISTRICT
+36031636,1914310,Hubbard-Radcliffe Comm School District
+36031637,1910690,Eldora-New Providence Comm School District
+36031640,,
+36031641,640230,Twin Hills Union Elementary
+36031642,,
+36031643,3008880,DeSmet Elem
+36031644,620370,Laguna Beach Unified
+36031645,,
+36031646,606510,Burnt Ranch Elementary
+36031647,1906060,Camanche Comm School District
+36031648,611430,Douglas City Elementary
+36031649,1600149,THE KOOTENAI BRIDGE ACADEMY INC.
+36031650,610380,Cutten Elementary
+36031651,,
+36031652,623730,Maple Creek Elementary
+36031653,1914580,Independence Comm School District
+36031654,,
+36031655,1927390,Storm Lake Comm School District
+36031656,102730,Pickens County
+36031657,1911820,Fort Dodge Comm School District
+36031658,,
+36031659,1903630,Andrew Comm School District
+36031660,1908880,Delwood Comm School District
+36031661,,
+36031662,,
+36031663,642480,Whittier Union High
+36031664,610290,Cupertino Union
+36031665,100008,Madison City
+36031666,613470,Fall River Joint Unified
+36031667,,
+36031668,,
+36031669,510260,MOUNTAINBURG SCHOOL DISTRICT
+36031673,,
+36031676,2800360,ABERDEEN SCHOOL DIST
+36031677,2800390,ALCORN SCHOOL DIST
+36031678,2800420,AMITE COUNTY SCHOOL DISTRICT
+36031679,2800450,AMORY SCHOOL DIST
+36031680,,
+36031681,2800540,BALDWYN SCHOOL DISTRICT
+36031682,2800570,BAY ST LOUIS WAVELAND SCHOOL DIST
+36031683,,
+36031684,2800630,BILOXI PUBLIC SCHOOL DIST
+36031685,2800820,BOONEVILLE SCHOOL DIST
+36031686,2800840,BROOKHAVEN SCHOOL DIST
+36031687,,
+36031688,2800900,CANTON PUBLIC SCHOOL DIST
+36031689,2800930,CARROLL COUNTY SCHOOL DIST
+36031690,,
+36031691,100690,Choctaw County
+36031692,4700630,Claiborne County
+36031693,2801050,CLARKSDALE MUNICIPAL SCHOOL DIST
+36031694,2800750,CLEVELAND SCHOOL DIST
+36031695,2801090,CLINTON PUBLIC SCHOOL DIST
+36031696,2801110,COAHOMA COUNTY SCHOOL DISTRICT
+36031697,2801170,COLUMBIA SCHOOL DISTRICT
+36031698,2801200,COLUMBUS MUNICIPAL SCHOOL DIST
+36031699,,
+36031700,2801290,COVINGTON COUNTY SCHOOL DISTRICT
+36031701,,
+36031702,,
+36031703,,
+36031704,2801440,ENTERPRISE SCHOOL DIST
+36031705,2801470,FOREST MUNICIPAL SCHOOL DIST
+36031706,2801510,FORREST COUNTY AG HIGH SCHOOL
+36031707,2801490,FORREST COUNTY SCHOOL DISTRICT
+36031708,,
+36031709,,
+36031710,2801590,GREENE COUNTY SCHOOL DISTRICT
+36031711,,
+36031712,,
+36031713,2801680,GRENADA SCHOOL DIST
+36031714,,
+36031715,,
+36031716,2801800,HATTIESBURG PUBLIC SCHOOL DIST
+36031717,2801830,HAZLEHURST CITY SCHOOL DISTRICT
+36031718,,
+36031719,2801890,HOLLANDALE SCHOOL DIST
+36031720,2801950,HOLLY SPRINGS SCHOOL DIST
+36031721,2800195,HOLMES COUNTY CONSOLIDATED SD
+36031722,4701980,Humphreys County
+36031723,2802100,ITAWAMBA COUNTY SCHOOL DIST
+36031724,,
+36031725,2802190,JACKSON PUBLIC SCHOOL DISTRICT
+36031726,,
+36031727,,
+36031728,,
+36031729,,
+36031730,2802340,KOSCIUSKO SCHOOL DISTRICT
+36031731,,
+36031732,2802400,LAMAR COUNTY SCHOOL DISTRICT
+36031733,,
+36031734,2802460,LAUREL SCHOOL DISTRICT
+36031735,,
+36031736,,
+36031737,2802550,LEE COUNTY SCHOOL DISTRICT
+36031738,2802610,LELAND SCHOOL DIST
+36031739,2802640,LINCOLN COUNTY SCHOOL DISTRICT
+36031740,2802670,LONG BEACH SCHOOL DIST
+36031741,2802700,LOUISVILLE MUNICIPAL SCHOOL DIST
+36031742,,
+36031743,,
+36031744,,
+36031745,,
+36031746,2802880,MCCOMB SCHOOL DISTRICT
+36031747,,
+36031748,,
+36031749,2803000,MOSS POINT SEPARATE SCHOOL DIST
+36031750,2803030,NATCHEZ-ADAMS SCHOOL DISTRICT
+36031751,2803060,NESHOBA COUNTY SCHOOL DISTRICT
+36031752,2803090,NETTLETON SCHOOL DIST
+36031753,,
+36031754,2803180,NEWTON MUNICIPAL SCHOOL DISTRICT
+36031755,2803150,NEWTON COUNTY SCHOOL DISTRICT
+36031756,,
+36031757,2803210,NORTH PANOLA SCHOOL DISTRICT
+36031758,2803240,NORTH PIKE SCHOOL DIST
+36031759,2803270,NORTH TIPPAH SCHOOL DIST
+36031760,2803300,NOXUBEE COUNTY SCHOOL DISTRICT
+36031761,2803360,OCEAN SPRINGS SCHOOL DIST
+36031762,2803390,OKOLONA SEPARATE SCHOOL DIST
+36031763,2803450,OXFORD SCHOOL DISTRICT
+36031764,2803480,PASCAGOULA-GAUTIER SCHOOL DISTRICT
+36031765,2803510,PASS CHRISTIAN PUBLIC SCHOOL DIST
+36031766,2803520,PEARL PUBLIC SCHOOL DISTRICT
+36031767,,
+36031768,,
+36031769,2803530,PETAL SCHOOL DIST
+36031770,2803600,PHILADELPHIA PUBLIC SCHOOL DIST
+36031771,,
+36031772,2803630,PICAYUNE SCHOOL DISTRICT
+36031773,2803690,PONTOTOC CITY SCHOOLS
+36031774,,
+36031775,2803720,POPLARVILLE SEPARATE SCHOOL DIST
+36031776,,
+36031777,2803780,QUITMAN SCHOOL DIST
+36031778,2803780,QUITMAN SCHOOL DIST
+36031779,,
+36031780,2803870,RICHTON SCHOOL DIST
+36031781,,
+36031782,2803930,SENATOBIA MUNICIPAL SCHOOL DIST
+36031783,2105400,Simpson County
+36031784,4703870,Smith County
+36031785,2803960,SOUTH DELTA SCHOOL DISTRICT
+36031786,2804050,SOUTH PANOLA SCHOOL DISTRICT
+36031787,2804080,SOUTH PIKE SCHOOL DIST
+36031788,2804110,SOUTH TIPPAH SCHOOL DIST
+36031789,,
+36031790,,
+36031791,,
+36031792,,
+36031793,4030060,TISHOMINGO
+36031794,2804290,TUNICA COUNTY SCHOOL DISTRICT
+36031795,2804320,TUPELO PUBLIC SCHOOL DIST
+36031796,2804380,UNION PUBLIC SCHOOL DIST
+36031797,,
+36031798,2804470,VICKSBURG WARREN SCHOOL DIST
+36031799,,
+36031800,2804500,WATER VALLEY SCHOOL DISTRICT
+36031801,,
+36031802,,
+36031804,,
+36031805,2800191,WEST POINT CONSOLIDATED SCHOOL DIST
+36031806,2804650,WEST TALLAHATCHIE SCHOOL DISTRICT
+36031807,2804680,WESTERN LINE SCHOOL DISTRICT
+36031808,1305790,Wilkinson County
+36031809,2800196,WINONA-MONTGOMERY CONSOLIDATED
+36031810,2804770,YAZOO CITY MUNICIPAL SCHOOL DIST
+36031811,,
+36031812,,
+36031813,2801140,COFFEEVILLE SCHOOL DIST
+36031814,1931830,Winfield-Mt Union Comm School District
+36031815,1904680,Belmond-Klemme Comm School District
+36031816,1905790,Burlington Comm School District
+36031817,,
+36031818,1926580,Solon Comm School District
+36031819,1931950,Woodbury Central Comm School District
+36031820,1908910,Denison Comm School District
+36031821,2623820,Midland Public Schools
+36031822,1903360,Algona Comm School District
+36031823,1912480,George-Little Rock Comm School District
+36031824,1906750,Centerville Comm School District
+36031825,1906900,Central Decatur Comm School District
+36031826,1904560,Bedford Comm School District
+36031827,1909570,Boyer Valley Comm School District
+36031828,636360,Sequoia Union Elementary
+36031829,1900060,GMG Comm School District
+36031830,1912690,Glenwood Comm School District
+36031831,,
+36031832,614880,Garden Grove Unified
